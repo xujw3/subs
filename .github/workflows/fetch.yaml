@@ -44,24 +44,29 @@ jobs:
     - name: 安装依赖
       run: |
         pip install -r ./requirements.txt
+
     - name: 执行任务
       run: |
         python ./main.py
+
     - name: 更新Substore
       env:
-        APIURL: ${{ secrets.APIURL }}
+        # 直接填入你的真实URL，注意加上引号。
+        # 如果仓库公开且URL敏感，请务必改用 ${{ vars.APIURL }} 或改回 secrets
+        APIURL: "https://你的真实API地址.com" 
       run: |
         python ./sub.py
-    - name: Commit
+
+    - name: Commit and Push
       run: |
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "actions@github.com"
+        # 建议使用 GitHub Actions 官方机器人账号信息
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
         git add .   #这是pre_check.py定义的输出路径
-        git commit -m "🍀 爬取订阅源 $(date '+%Y-%m-%d %H:%M:%S')"
         
-    - name: 推送更改
-      uses:  ad-m/github-push-action@master
-      with:
-         github_token: ${{ secrets.TOKEN }}
-         branch: main
+        # || exit 0 的作用是：如果没有文件发生更改，commit 失败也不会导致整个 Action 标红报错
+        git commit -m "🍀 爬取订阅源 $(date '+%Y-%m-%d %H:%M:%S')" || exit 0
+        
+        # 直接推送，无需使用第三方 action
+        git push
