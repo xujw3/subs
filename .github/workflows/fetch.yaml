@@ -51,9 +51,7 @@ jobs:
 
     - name: 更新Substore
       env:
-        # 直接填入你的真实URL，注意加上引号。
-        # 如果仓库公开且URL敏感，请务必改用 ${{ vars.APIURL }} 或改回 secrets
-        APIURL: "https://你的真实API地址.com" 
+        APIURL: ${{ secrets.APIURL }}
       run: |
         python ./sub.py
 
