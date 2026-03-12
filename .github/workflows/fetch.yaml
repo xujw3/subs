@@ -59,14 +59,14 @@ jobs:
 
     - name: Commit and Push
       run: |
-        # 建议使用 GitHub Actions 官方机器人账号信息
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-        git add .   #这是pre_check.py定义的输出路径
-        
-        # || exit 0 的作用是：如果没有文件发生更改，commit 失败也不会导致整个 Action 标红报错
+        git add .
         git commit -m "🍀 爬取订阅源 $(date '+%Y-%m-%d %H:%M:%S')" || exit 0
         
-        # 直接推送，无需使用第三方 action
-        git push
+        # 重新设置 remote URL，使用自带的 GITHUB_TOKEN 进行静默鉴权
+        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+        
+        # 推送到 main 分支
+        git push origin HEAD:main
