@@ -4,23 +4,24 @@
 可用流量: 100.0 GB https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#ShadowProxy66
 可用流量: 1000.0 GB https://anotherdy.020118119.best/another/5fb57ebf88cd63d6f73e15f67311234a
 可用流量: 101373.0 GB https://sub.pusytroller.cf/?url=freenodes
-可用流量: 104.02 GB https://mojie.app/api/v1/client/subscribe?token=8b0804cf83dd8f2ddb1d25ae3480a0fa
-可用流量: 113.02 GB https://sub1.all--green.com/mfjc/6682c9a3dd94f687e520c41a6738d11f
-可用流量: 554.21 GB https://ys.jiedianxielou.workers.dev:443
-可用流量: 14964.98 GB https://v3.ganglink.sbs/f5d86f1c-3f4f-4ac9-aa03-64bf34750055
-可用流量: 225.5 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
-可用流量: 29.12 GB https://vortex12.qjty.buzz/api/v2/user/token/7041431d14ad83ef71e49dc777b2c5c6
-可用流量: 40.34 GB https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=811d4fd81b30035d5af968f6c57dc3ed
-可用流量: 499.75 GB https://xn--ehqa22b.site/s/d3b38b5b49953a9b5ccbe0bba8c1ac2e
-可用流量: 57.7 GB https://packet32.qjty.buzz/api/v2/user/token/ff1679f7a830ab760db281c5c6289938
+可用流量: 1915.81 GB https://ys.jiedianxielou.workers.dev:443
+可用流量: 110.98 GB https://sub1.all--green.com/mfjc/6682c9a3dd94f687e520c41a6738d11f
+可用流量: 14225.56 GB https://v3.ganglink.sbs/f5d86f1c-3f4f-4ac9-aa03-64bf34750055
+可用流量: 16.04 GB https://suba.f2vip.net/api/v1/client/subscribe?token=a42a99139c1aa0779d5a9d5857b5212b
+可用流量: 2104.79 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
+可用流量: 27.33 GB https://vortex12.qjty.buzz/api/v2/user/token/7041431d14ad83ef71e49dc777b2c5c6
+可用流量: 40.32 GB https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=811d4fd81b30035d5af968f6c57dc3ed
+可用流量: 499.66 GB https://xn--ehqa22b.site/s/d18b4737fa83a88ac026cee0f420aaa1
+可用流量: 57.69 GB https://packet32.qjty.buzz/api/v2/user/token/ff1679f7a830ab760db281c5c6289938
 可用流量: 67.94 GB https://subscribe001.ggff.net/subscribe/d7e5024de12bc7a18b12168a2b15a92c
-可用流量: 7976.92 GB https://ly.ba000.cc/s/d194066d5d4e228a21aa7257554a69e9
-可用流量: 995.76 GB https://b6enwo8026sf4k.wca1rs59sefb1kl655b0.online/api/v1/client/subscribe?token=f4310d72fdf766cceb16d7cd2d054f83
+可用流量: 7940.86 GB https://ly.ba000.cc/s/d194066d5d4e228a21aa7257554a69e9
+可用流量: 989.61 GB https://b6enwo8026sf4k.wca1rs59sefb1kl655b0.online/api/v1/client/subscribe?token=f4310d72fdf766cceb16d7cd2d054f83
+可用流量: 97.12 GB https://mojie.app/api/v1/client/subscribe?token=8b0804cf83dd8f2ddb1d25ae3480a0fa
 可用流量: 961089.12 GB https://www.xrayvip.com/free.txt
 可用流量: 983.62 GB https://webget.yfjc.xyz/api/v1/client/subscribe?token=50a06f1537ce9a89ce102a310b005eaa
 可用流量: 990140.51 GB https://youxi.myyfqh.tech/gougoucloud/18ee46bc7cfd23e0386b56f2208f5823
 可用流量: 998.94 GB https://shop-piqiu.makadns.com/lxdebnkdaf/3bb92e13aacbbe68f49fbf0f62de8e5f
-可用流量: 9999093.61 GB https://xfapp.quickbeevpn.com/api/v1/client/subscribe?token=f29a710191d5672892c2401084c5eb07&amp;flag=meta
+可用流量: 9999093.19 GB https://xfapp.quickbeevpn.com/api/v1/client/subscribe?token=f29a710191d5672892c2401084c5eb07&amp;flag=meta
 
 -- sub_list --
 
@@ -36,6 +37,7 @@ https://shop-piqiu.makadns.com/lxdebnkdaf/3bb92e13aacbbe68f49fbf0f62de8e5f
 https://sub.pusytroller.cf/?url=freenodes
 https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#ShadowProxy66
 https://sub1.all--green.com/mfjc/6682c9a3dd94f687e520c41a6738d11f
+https://suba.f2vip.net/api/v1/client/subscribe?token=a42a99139c1aa0779d5a9d5857b5212b
 https://subscribe001.ggff.net/subscribe/d7e5024de12bc7a18b12168a2b15a92c
 https://v3.ganglink.sbs/f5d86f1c-3f4f-4ac9-aa03-64bf34750055
 https://vortex12.qjty.buzz/api/v2/user/token/7041431d14ad83ef71e49dc777b2c5c6
