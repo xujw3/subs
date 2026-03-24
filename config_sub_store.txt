@@ -2,20 +2,18 @@
 
 可用流量: 100.0 GB https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#ShadowProxy66
 可用流量: 101373.0 GB https://sub.pusytroller.cf/?url=freenodes
-可用流量: 2056.7 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
-可用流量: 14682.57 GB https://v3.ganglink.sbs/f5d86f1c-3f4f-4ac9-aa03-64bf34750055
-可用流量: 14683.39 GB https://btxst.eu.cc/sub?token=1fb3e82d731ba1493627e9ad7a53e49b
-可用流量: 864.35 GB https://ys.jiedianxielou.workers.dev:443
-可用流量: 21.1 GB https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=896e5fead6d595f5a5689b90b3c26998
-可用流量: 299831.43 GB https://r2-c11-dd.0-w.ccwu.cc/Io2nIIKIDRiOSj36H/b928941e-3fbd-43d1-9124-bc11682e26a9/#default
-可用流量: 323.15 GB https://luosiqimeng.freegangkou.top/freegangkou/2c5e56a3ce2872e197fe4ce11b7e45e6
-可用流量: 40.91 GB https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=98e3ae2cb54154b63d7360c2a35e1a0a
-可用流量: 99.91 GB https://suba.f2vip.net/api/v1/client/subscribe?token=ca1fa676b94f6302108c7597d1de3eae
+可用流量: 240.76 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
+可用流量: 13774.75 GB https://v3.ganglink.sbs/f5d86f1c-3f4f-4ac9-aa03-64bf34750055
+可用流量: 13775.25 GB https://btxst.eu.cc/sub?token=1fb3e82d731ba1493627e9ad7a53e49b
+可用流量: 797.37 GB https://ys.jiedianxielou.workers.dev:443
+可用流量: 29.85 GB https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=98e3ae2cb54154b63d7360c2a35e1a0a
+可用流量: 299828.57 GB https://r2-c11-dd.0-w.ccwu.cc/Io2nIIKIDRiOSj36H/b928941e-3fbd-43d1-9124-bc11682e26a9/#default
+可用流量: 320.99 GB https://luosiqimeng.freegangkou.top/freegangkou/2c5e56a3ce2872e197fe4ce11b7e45e6
+可用流量: 99.54 GB https://suba.f2vip.net/api/v1/client/subscribe?token=a4d60bf9292e142c4efb5762fb9da180
 可用流量: 961089.12 GB https://www.xrayvip.com/free.txt
 
 -- sub_list --
 
-https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=896e5fead6d595f5a5689b90b3c26998
 https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=98e3ae2cb54154b63d7360c2a35e1a0a
 https://btxst.eu.cc/sub?token=1fb3e82d731ba1493627e9ad7a53e49b
 https://luosiqimeng.freegangkou.top/freegangkou/2c5e56a3ce2872e197fe4ce11b7e45e6
