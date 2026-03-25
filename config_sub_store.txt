@@ -2,14 +2,15 @@
 
 可用流量: 100.0 GB https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#ShadowProxy66
 可用流量: 101373.0 GB https://sub.pusytroller.cf/?url=freenodes
-可用流量: 675.86 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
-可用流量: 296.79 GB https://luosiqimeng.freegangkou.top/freegangkou/2c5e56a3ce2872e197fe4ce11b7e45e6
-可用流量: 299776.0 GB https://r2-c11-dd.0-w.ccwu.cc/Io2nIIKIDRiOSj36H/b928941e-3fbd-43d1-9124-bc11682e26a9/#default
-可用流量: 509.71 GB https://ys.jiedianxielou.workers.dev:443
-可用流量: 93.43 GB https://suba.f2vip.net/api/v1/client/subscribe?token=23468c2c9a5697fb91ad322e45d18638
-可用流量: 967.21 GB https://btxst.eu.cc/sub?token=1fb3e82d731ba1493627e9ad7a53e49b
+可用流量: 1946.4 GB https://ys.jiedianxielou.workers.dev:443
+可用流量: 1887.04 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
+可用流量: 181.43 GB https://update.glados-config.com/subscribe/689432/48c0bb8/127280/servers
+可用流量: 5.03 GB https://btxst.eu.cc/sub?token=1fb3e82d731ba1493627e9ad7a53e49b
+可用流量: 295.04 GB https://luosiqimeng.freegangkou.top/freegangkou/2c5e56a3ce2872e197fe4ce11b7e45e6
+可用流量: 299772.71 GB https://r2-c11-dd.0-w.ccwu.cc/Io2nIIKIDRiOSj36H/b928941e-3fbd-43d1-9124-bc11682e26a9/#default
+可用流量: 4.45 GB https://v3.ganglink.sbs/f5d86f1c-3f4f-4ac9-aa03-64bf34750055
+可用流量: 92.5 GB https://suba.f2vip.net/api/v1/client/subscribe?token=a4d60bf9292e142c4efb5762fb9da180
 可用流量: 961089.12 GB https://www.xrayvip.com/free.txt
-可用流量: 966.5 GB https://v3.ganglink.sbs/f5d86f1c-3f4f-4ac9-aa03-64bf34750055
 
 -- sub_list --
 
@@ -20,6 +21,7 @@ https://r2-c11-dd.0-w.ccwu.cc/Io2nIIKIDRiOSj36H/b928941e-3fbd-43d1-9124-bc11682e
 https://sub.pusytroller.cf/?url=freenodes
 https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#ShadowProxy66
 https://suba.f2vip.net/api/v1/client/subscribe?token=dfb1122e73c12d4e27a649c515e09426
+https://update.glados-config.com/subscribe/689432/48c0bb8/127280/servers
 https://v3.ganglink.sbs/f5d86f1c-3f4f-4ac9-aa03-64bf34750055
 https://www.xrayvip.com/free.txt
 https://ys.jiedianxielou.workers.dev:443
