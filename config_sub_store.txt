@@ -1,15 +1,15 @@
 -- play_list --
 
-可用流量: 94.84 GB https://suba.f2vip.net/api/v1/client/subscribe?token=29a63c2d45a665719d17851f624bb1c6
 可用流量: 100.0 GB https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#ShadowProxy66
 可用流量: 101373.0 GB https://sub.pusytroller.cf/?url=freenodes
-可用流量: 824.03 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
-可用流量: 2150.17 GB https://ys.jiedianxielou.workers.dev:443
-可用流量: 17596.65 GB https://v3.ganglink.sbs/f5d86f1c-3f4f-4ac9-aa03-64bf34750055
-可用流量: 17596.59 GB https://btxst.eu.cc/sub?token=1fb3e82d731ba1493627e9ad7a53e49b
-可用流量: 191.96 GB https://luosiqimeng.freegangkou.top/freegangkou/2c5e56a3ce2872e197fe4ce11b7e45e6
-可用流量: 299648.54 GB https://r2-c11-dd.0-w.ccwu.cc/Io2nIIKIDRiOSj36H/b928941e-3fbd-43d1-9124-bc11682e26a9/#default
-可用流量: 7.5 GB https://soonvpn.net/config?token=e78267d575c36d2707ebb0ac54b509e6
+可用流量: 2139.63 GB https://ys.jiedianxielou.workers.dev:443
+可用流量: 16441.13 GB https://v3.ganglink.sbs/f5d86f1c-3f4f-4ac9-aa03-64bf34750055
+可用流量: 16442.15 GB https://btxst.eu.cc/sub?token=1fb3e82d731ba1493627e9ad7a53e49b
+可用流量: 189.2 GB https://luosiqimeng.freegangkou.top/freegangkou/2c5e56a3ce2872e197fe4ce11b7e45e6
+可用流量: 93.04 GB https://suba.f2vip.net/api/v1/client/subscribe?token=29a63c2d45a665719d17851f624bb1c6
+可用流量: 898.97 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
+可用流量: 257.09 GB https://su.gwzxwk.com/api/v1/client/subscribe?token=c2c077c5c497219a9564844bbd6395a3
+可用流量: 277093.09 GB https://wde.ae1autumn.cc.cd/tybDz93dD50A9J5pJAXNBiKr/13ad36e6-c091-43f2-8505-47d868dd544c/#default
 可用流量: 961089.12 GB https://www.xrayvip.com/free.txt
 
 -- sub_list --
@@ -17,11 +17,11 @@
 https://btxst.eu.cc/sub?token=1fb3e82d731ba1493627e9ad7a53e49b
 https://luosiqimeng.freegangkou.top/freegangkou/2c5e56a3ce2872e197fe4ce11b7e45e6
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
-https://r2-c11-dd.0-w.ccwu.cc/Io2nIIKIDRiOSj36H/b928941e-3fbd-43d1-9124-bc11682e26a9/#default
-https://soonvpn.net/config?token=e78267d575c36d2707ebb0ac54b509e6
+https://su.gwzxwk.com/api/v1/client/subscribe?token=c2c077c5c497219a9564844bbd6395a3
 https://sub.pusytroller.cf/?url=freenodes
 https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#ShadowProxy66
 https://suba.f2vip.net/api/v1/client/subscribe?token=9f10323936c22442ca476fb578543789
 https://v3.ganglink.sbs/f5d86f1c-3f4f-4ac9-aa03-64bf34750055
+https://wde.ae1autumn.cc.cd/tybDz93dD50A9J5pJAXNBiKr/13ad36e6-c091-43f2-8505-47d868dd544c/#default
 https://www.xrayvip.com/free.txt
 https://ys.jiedianxielou.workers.dev:443
