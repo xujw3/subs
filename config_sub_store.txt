@@ -2,26 +2,26 @@
 
 可用流量: 100.0 GB https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#ShadowProxy66
 可用流量: 101373.0 GB https://sub.pusytroller.cf/?url=freenodes
-可用流量: 672.59 GB https://ys.jiedianxielou.workers.dev:443
-可用流量: 178.07 GB https://luosiqimeng.freegangkou.top/freegangkou/2c5e56a3ce2872e197fe4ce11b7e45e6
-可用流量: 469.0 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
-可用流量: 276991.01 GB https://hyui.apocalypse.cc.cd/tybDz93dD50A9J5pJAXNBiKr/13ad36e6-c091-43f2-8505-47d868dd544c/#default
-可用流量: 299647.43 GB https://r2-c11-dd.0-w.ccwu.cc/Io2nIIKIDRiOSj36H/b928941e-3fbd-43d1-9124-bc11682e26a9/#default
-可用流量: 40.73 GB https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=040c77fafccf39f903b38d89d5ea3564
-可用流量: 8445.72 GB https://v3.ganglink.sbs/f5d86f1c-3f4f-4ac9-aa03-64bf34750055
-可用流量: 8446.5 GB https://btxst.eu.cc/sub?token=1fb3e82d731ba1493627e9ad7a53e49b
+可用流量: 2074.53 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
+可用流量: 303.82 GB https://ys.jiedianxielou.workers.dev:443
+可用流量: 177.05 GB https://luosiqimeng.freegangkou.top/freegangkou/2c5e56a3ce2872e197fe4ce11b7e45e6
+可用流量: 68.82 GB https://suba.f2vip.net/api/v1/client/subscribe?token=29a63c2d45a665719d17851f624bb1c6
+可用流量: 299647.41 GB https://r2-c11-dd.0-w.ccwu.cc/Io2nIIKIDRiOSj36H/b928941e-3fbd-43d1-9124-bc11682e26a9/#default
+可用流量: 37.03 GB https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=040c77fafccf39f903b38d89d5ea3564
+可用流量: 7547.52 GB https://v3.ganglink.sbs/f5d86f1c-3f4f-4ac9-aa03-64bf34750055
+可用流量: 7548.47 GB https://btxst.eu.cc/sub?token=1fb3e82d731ba1493627e9ad7a53e49b
 可用流量: 961089.12 GB https://www.xrayvip.com/free.txt
 
 -- sub_list --
 
 https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=040c77fafccf39f903b38d89d5ea3564
 https://btxst.eu.cc/sub?token=1fb3e82d731ba1493627e9ad7a53e49b
-https://hyui.apocalypse.cc.cd/tybDz93dD50A9J5pJAXNBiKr/13ad36e6-c091-43f2-8505-47d868dd544c/#default
 https://luosiqimeng.freegangkou.top/freegangkou/2c5e56a3ce2872e197fe4ce11b7e45e6
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
 https://r2-c11-dd.0-w.ccwu.cc/Io2nIIKIDRiOSj36H/b928941e-3fbd-43d1-9124-bc11682e26a9/#default
 https://sub.pusytroller.cf/?url=freenodes
 https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#ShadowProxy66
+https://suba.f2vip.net/api/v1/client/subscribe?token=2a42ebc2187e0bc51d06b20b532b12f5
 https://v3.ganglink.sbs/f5d86f1c-3f4f-4ac9-aa03-64bf34750055
 https://www.xrayvip.com/free.txt
 https://ys.jiedianxielou.workers.dev:443
