@@ -2,22 +2,26 @@
 
 可用流量: 100.0 GB https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#ShadowProxy66
 可用流量: 101373.0 GB https://sub.pusytroller.cf/?url=freenodes
-可用流量: 574.87 GB https://ys.jiedianxielou.workers.dev:443
-可用流量: 13268.91 GB https://btxst.eu.cc/sub?token=1fb3e82d731ba1493627e9ad7a53e49b
-可用流量: 13267.75 GB https://v3.ganglink.sbs/f5d86f1c-3f4f-4ac9-aa03-64bf34750055
-可用流量: 8.86 GB https://suba.f2vip.net/api/v1/client/subscribe?token=29a63c2d45a665719d17851f624bb1c6
-可用流量: 685.16 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
-可用流量: 276765.36 GB https://ghj.apocalypse.cc.cd/tybDz93dD50A9J5pJAXNBiKr/13ad36e6-c091-43f2-8505-47d868dd544c/#default
+可用流量: 12333.51 GB https://btxst.eu.cc/sub?token=1fb3e82d731ba1493627e9ad7a53e49b
+可用流量: 12332.75 GB https://v3.ganglink.sbs/f5d86f1c-3f4f-4ac9-aa03-64bf34750055
+可用流量: 742.57 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
+可用流量: 338.16 GB https://ys.jiedianxielou.workers.dev:443
+可用流量: 8.56 GB https://suba.f2vip.net/api/v1/client/subscribe?token=29a63c2d45a665719d17851f624bb1c6
+可用流量: 276755.45 GB https://dfg.ae1autumn.cc.cd/tybDz93dD50A9J5pJAXNBiKr/13ad36e6-c091-43f2-8505-47d868dd544c/#default
+可用流量: 276755.45 GB https://wde.ae1autumn.cc.cd/tybDz93dD50A9J5pJAXNBiKr/13ad36e6-c091-43f2-8505-47d868dd544c/#default
+可用流量: 276755.53 GB https://ghj.apocalypse.cc.cd/tybDz93dD50A9J5pJAXNBiKr/13ad36e6-c091-43f2-8505-47d868dd544c/#default
 可用流量: 961089.12 GB https://www.xrayvip.com/free.txt
 
 -- sub_list --
 
 https://btxst.eu.cc/sub?token=1fb3e82d731ba1493627e9ad7a53e49b
+https://dfg.ae1autumn.cc.cd/tybDz93dD50A9J5pJAXNBiKr/13ad36e6-c091-43f2-8505-47d868dd544c/#default
 https://ghj.apocalypse.cc.cd/tybDz93dD50A9J5pJAXNBiKr/13ad36e6-c091-43f2-8505-47d868dd544c/#default
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
 https://sub.pusytroller.cf/?url=freenodes
 https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#ShadowProxy66
 https://suba.f2vip.net/api/v1/client/subscribe?token=9299aa5a3b1500f22bd6cfb396d5b5f3
 https://v3.ganglink.sbs/f5d86f1c-3f4f-4ac9-aa03-64bf34750055
+https://wde.ae1autumn.cc.cd/tybDz93dD50A9J5pJAXNBiKr/13ad36e6-c091-43f2-8505-47d868dd544c/#default
 https://www.xrayvip.com/free.txt
 https://ys.jiedianxielou.workers.dev:443
