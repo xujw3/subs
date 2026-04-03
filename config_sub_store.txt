@@ -2,22 +2,23 @@
 
 可用流量: 100.0 GB https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#ShadowProxy66
 可用流量: 101373.0 GB https://sub.pusytroller.cf/?url=freenodes
-可用流量: 12890.03 GB https://btxst.eu.cc/sub?token=1fb3e82d731ba1493627e9ad7a53e49b
-可用流量: 12888.85 GB https://v3.ganglink.sbs/f5d86f1c-3f4f-4ac9-aa03-64bf34750055
-可用流量: 2132.7 GB https://ys.jiedianxielou.workers.dev:443
-可用流量: 46.24 GB https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=f308650d02be9d787004eb0fa38e29ab
+可用流量: 12207.79 GB https://btxst.eu.cc/sub?token=1fb3e82d731ba1493627e9ad7a53e49b
+可用流量: 12206.59 GB https://v3.ganglink.sbs/f5d86f1c-3f4f-4ac9-aa03-64bf34750055
+可用流量: 709.82 GB https://ys.jiedianxielou.workers.dev:443
+可用流量: 83.57 GB https://suba.f2vip.net/api/v1/client/subscribe?token=cc833e586787464bcf090be25e2da69f
+可用流量: 262.33 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
+可用流量: 27.77 GB https://1.649844.xyz/s/fdd91b28eb8994fc49c452f706c28274
+可用流量: 45.68 GB https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=f308650d02be9d787004eb0fa38e29ab
 可用流量: 349.95 GB https://cccloud.zangcloud.xyz/ai/m3u8/xppt/sub?token=a885d9fbeefc0249fd9a84632f7c18d5
-可用流量: 601.86 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
-可用流量: 53.3 GB https://1.649844.xyz/s/fdd91b28eb8994fc49c452f706c28274
 可用流量: 59.8 GB https://wylztxfq.qjty1.buzz/api/v2/user/token/308e6ee53eee87937f3a8c5c61b09b5c
 可用流量: 60.0 GB https://gwjvmthr.qjty1.buzz/api/v2/user/token/ed8341acf3999aef2d58640c9405b099
 可用流量: 60.0 GB https://mhxwfgsl.qjty1.buzz/api/v2/user/token/bd4946f594c2997bad3602142c69f1c0
 可用流量: 60.0 GB https://tmrcfylw.qjty1.buzz/api/v2/user/token/494d13a95d4ca330a25b1e82f95bacb2
 可用流量: 60.0 GB https://zkjrvbxy.qjty1.buzz/api/v2/user/token/e53732f31dea01ee1353f99d89d52e34
 可用流量: 99.27 GB https://sudaji.eepzau.org/api/v1/client/subscribe?token=a46d09ddfe19ff61d977e0589f4c2e25
-可用流量: 93.27 GB https://sus.clodom.link/cloud/link/detail/ea21807c8dac12e3a6d9e82c8b4abb15
+可用流量: 83.62 GB https://sus.clodom.link/cloud/link/detail/ea21807c8dac12e3a6d9e82c8b4abb15
 可用流量: 961089.12 GB https://www.xrayvip.com/free.txt
-可用流量: 9999927.96 GB https://wwn.trx1.cyou/max/ng?token=ef0815958a43c26667a6694eac19e2cd
+可用流量: 9999927.82 GB https://wwn.trx1.cyou/max/ng?token=ef0815958a43c26667a6694eac19e2cd
 
 -- sub_list --
 
@@ -30,6 +31,7 @@ https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b4
 https://mhxwfgsl.qjty1.buzz/api/v2/user/token/bd4946f594c2997bad3602142c69f1c0
 https://sub.pusytroller.cf/?url=freenodes
 https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#ShadowProxy66
+https://suba.f2vip.net/api/v1/client/subscribe?token=cc833e586787464bcf090be25e2da69f
 https://sudaji.eepzau.org/api/v1/client/subscribe?token=fed8a35a2dbde11ca1e58096f5b0ccdb
 https://sus.clodom.link/cloud/link/detail/ea21807c8dac12e3a6d9e82c8b4abb15
 https://tmrcfylw.qjty1.buzz/api/v2/user/token/494d13a95d4ca330a25b1e82f95bacb2
