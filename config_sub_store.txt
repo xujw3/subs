@@ -1,23 +1,25 @@
 -- play_list --
 
 可用流量: 100.0 GB https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#ShadowProxy66
+可用流量: 100.0 GB https://vip.putata.eu.org/oao
 可用流量: 1000000000.0 GB https://2.juanwangjc.top/juanwang/dingyue1/sub1/babiq?token=1a7a3ead1236137ee05d77bd6a21af7e
 可用流量: 101373.0 GB https://sub.pusytroller.cf/?url=freenodes
-可用流量: 350.8 GB https://ys.jiedianxielou.workers.dev:443
-可用流量: 15.3 GB https://userid.moviecloud.sbs/movie/497faf13e2d4b0fca0f1245d6b9121f2
-可用流量: 1871.92 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
-可用流量: 20712.54 GB https://pgbps.ccwu.cc/sub?token=401e38f6bbfd4d0071c2688fcbc2b4a9
-可用流量: 20713.31 GB https://btxst.eu.cc/sub?token=1fb3e82d731ba1493627e9ad7a53e49b
+可用流量: 14.01 GB https://userid.moviecloud.sbs/movie/497faf13e2d4b0fca0f1245d6b9121f2
+可用流量: 790.31 GB https://ys.jiedianxielou.workers.dev:443
+可用流量: 18736.57 GB https://btxst.eu.cc/sub?token=1fb3e82d731ba1493627e9ad7a53e49b
+可用流量: 19.75 GB https://suba.f2vip.net/api/v1/client/subscribe?token=aca29512e06f31f0af911df5b5810825
 可用流量: 349.95 GB https://cccloud.zangcloud.xyz/ai/m3u8/xppt/sub?token=a885d9fbeefc0249fd9a84632f7c18d5
-可用流量: 55.18 GB https://wylztxfq.qjty1.buzz/api/v2/user/token/308e6ee53eee87937f3a8c5c61b09b5c
+可用流量: 41.4 GB https://novc.f6net.net/api/v1/client/subscribe?token=67ad39b2cfc81168a697aeb2a3821300
+可用流量: 98.6 GB https://sub.zhilian.best/getjiedian/030d22125c844ccab331ee78291be4c9
+可用流量: 46.69 GB https://wylztxfq.qjty1.buzz/api/v2/user/token/308e6ee53eee87937f3a8c5c61b09b5c
+可用流量: 780.13 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
 可用流量: 60.0 GB https://gwjvmthr.qjty1.buzz/api/v2/user/token/ed8341acf3999aef2d58640c9405b099
 可用流量: 60.0 GB https://mhxwfgsl.qjty1.buzz/api/v2/user/token/bd4946f594c2997bad3602142c69f1c0
 可用流量: 60.0 GB https://tmrcfylw.qjty1.buzz/api/v2/user/token/494d13a95d4ca330a25b1e82f95bacb2
 可用流量: 60.0 GB https://zkjrvbxy.qjty1.buzz/api/v2/user/token/e53732f31dea01ee1353f99d89d52e34
-可用流量: 98.6 GB https://sub.zhilian.best/getjiedian/030d22125c844ccab331ee78291be4c9
 可用流量: 99.99 GB https://sudaji.eepzau.org/api/v1/client/subscribe?token=adc2453ad6dcc731e2f7e60ec1ec859f
 可用流量: 961089.12 GB https://www.xrayvip.com/free.txt
-可用流量: 9999888.71 GB https://wwn.trx1.cyou/max/ng?token=ef0815958a43c26667a6694eac19e2cd
+可用流量: 9999888.39 GB https://wwn.trx1.cyou/max/ng?token=ef0815958a43c26667a6694eac19e2cd
 
 -- sub_list --
 
@@ -27,13 +29,15 @@ https://cccloud.zangcloud.xyz/ai/m3u8/xppt/sub?token=a885d9fbeefc0249fd9a84632f7
 https://gwjvmthr.qjty1.buzz/api/v2/user/token/ed8341acf3999aef2d58640c9405b099
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
 https://mhxwfgsl.qjty1.buzz/api/v2/user/token/bd4946f594c2997bad3602142c69f1c0
-https://pgbps.ccwu.cc/sub?token=401e38f6bbfd4d0071c2688fcbc2b4a9
+https://novc.f6net.net/api/v1/client/subscribe?token=67ad39b2cfc81168a697aeb2a3821300
 https://sub.pusytroller.cf/?url=freenodes
 https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#ShadowProxy66
-https://sub.zhilian.best/getjiedian/c9201efaa9bf18c74a6a3fd333b1d7d9
+https://sub.zhilian.best/getjiedian/846c636c45dd97c79a390bd347188655
+https://suba.f2vip.net/api/v1/client/subscribe?token=aca29512e06f31f0af911df5b5810825
 https://sudaji.eepzau.org/api/v1/client/subscribe?token=fed8a35a2dbde11ca1e58096f5b0ccdb
 https://tmrcfylw.qjty1.buzz/api/v2/user/token/494d13a95d4ca330a25b1e82f95bacb2
 https://userid.moviecloud.sbs/movie/497faf13e2d4b0fca0f1245d6b9121f2
+https://vip.putata.eu.org/oao
 https://wwn.trx1.cyou/max/ng?token=ef0815958a43c26667a6694eac19e2cd
 https://www.xrayvip.com/free.txt
 https://wylztxfq.qjty1.buzz/api/v2/user/token/308e6ee53eee87937f3a8c5c61b09b5c
