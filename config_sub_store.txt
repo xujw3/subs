@@ -1,18 +1,17 @@
 -- play_list --
 
 可用流量: 0.0 GB https://aier.eu.cc/sub?token=fc559fd62a07f8f30e293ad01528a0ce
-可用流量: 2.45 GB https://suba.f2vip.net/api/v1/client/subscribe?token=236ea8f16f511b803abf6d368ae6114f
 可用流量: 100.0 GB https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#ShadowProxy66
 可用流量: 100.0 GB https://vip.putata.eu.org/oao
 可用流量: 1000000000.0 GB https://2.juanwangjc.top/juanwang/dingyue1/sub1/babiq?token=1a7a3ead1236137ee05d77bd6a21af7e
 可用流量: 101373.0 GB https://sub.pusytroller.cf/?url=freenodes
-可用流量: 1350.22 GB https://ys.jiedianxielou.workers.dev:443
-可用流量: 14495.92 GB https://btxst.eu.cc/sub?token=1fb3e82d731ba1493627e9ad7a53e49b
-可用流量: 1816.18 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
-可用流量: 278.35 GB https://rssstarlink.ei38d3if3.xyz/s/98af3187300682a2d051e31a27d213ba
+可用流量: 13453.32 GB https://btxst.eu.cc/sub?token=1fb3e82d731ba1493627e9ad7a53e49b
+可用流量: 2160.73 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
+可用流量: 754.5 GB https://ys.jiedianxielou.workers.dev:443
+可用流量: 277.77 GB https://rssstarlink.ei38d3if3.xyz/s/98af3187300682a2d051e31a27d213ba
 可用流量: 29.11 GB https://wylztxfq.qjty1.buzz/api/v2/user/token/308e6ee53eee87937f3a8c5c61b09b5c
 可用流量: 349.94 GB https://cccloud.zangcloud.xyz/ai/m3u8/xppt/sub?token=a885d9fbeefc0249fd9a84632f7c18d5
-可用流量: 402.37 GB https://www9.9th-subscription-from-chickenfarmer.top/api/v1/client/subscribe?token=d761cf14344d6ddd20663ef8c971b798
+可用流量: 402.19 GB https://www9.9th-subscription-from-chickenfarmer.top/api/v1/client/subscribe?token=d761cf14344d6ddd20663ef8c971b798
 可用流量: 48.6 GB https://sub.zhilian.best/getjiedian/030d22125c844ccab331ee78291be4c9
 可用流量: 59.73 GB https://tmrcfylw.qjty1.buzz/api/v2/user/token/494d13a95d4ca330a25b1e82f95bacb2
 可用流量: 59.78 GB https://gwjvmthr.qjty1.buzz/api/v2/user/token/ed8341acf3999aef2d58640c9405b099
@@ -33,7 +32,6 @@ https://rssstarlink.ei38d3if3.xyz/s/98af3187300682a2d051e31a27d213ba
 https://sub.pusytroller.cf/?url=freenodes
 https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#ShadowProxy66
 https://sub.zhilian.best/getjiedian/030d22125c844ccab331ee78291be4c9
-https://suba.f2vip.net/api/v1/client/subscribe?token=f6317f324e581abdd5f46e5f619c44c1
 https://tmrcfylw.qjty1.buzz/api/v2/user/token/494d13a95d4ca330a25b1e82f95bacb2
 https://vip.putata.eu.org/oao
 https://www.xrayvip.com/free.txt
