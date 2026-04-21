@@ -5,17 +5,16 @@
 可用流量: 100.0 GB https://vip.putata.eu.org/oao
 可用流量: 1000000000.0 GB https://2.juanwangjc.top/juanwang/dingyue1/sub1/babiq?token=1a7a3ead1236137ee05d77bd6a21af7e
 可用流量: 101373.0 GB https://sub.pusytroller.gq/?url=freenodes
-可用流量: 135.21 GB https://wed.13333331.xyz/nba/bi/gfw/2b440b5b596416b579e01dedd00c1ebe
-可用流量: 1630.05 GB https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
-可用流量: 1630.16 GB https://aoe.o.eoa.ccwu.cc/o
-可用流量: 1630.02 GB https://btxst.eu.cc/sub?token=1fb3e82d731ba1493627e9ad7a53e49b
-可用流量: 280.84 GB https://ys.jiedianxielou.workers.dev:443
-可用流量: 434.96 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
-可用流量: 3.78 GB https://suba.f2vip.net/api/v1/client/subscribe?token=a0119066eb338bdab1d4cb7ffac1e2b4
+可用流量: 134.56 GB https://wed.13333331.xyz/nba/bi/gfw/2b440b5b596416b579e01dedd00c1ebe
+可用流量: 447.61 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
+可用流量: 2169.45 GB https://ys.jiedianxielou.workers.dev:443
 可用流量: 349.94 GB https://cccloud.zangcloud.xyz/ai/m3u8/xppt/sub?token=a885d9fbeefc0249fd9a84632f7c18d5
-可用流量: 381.29 GB https://mojie.app/api/v1/client/subscribe?token=e74339f9db32da89c060c6ac6c0ff2a8
-可用流量: 84.77 GB https://eddy1.snow00.us/api/v1/client/subscribe?token=4f7b5c11fab02db3472459c9f3228ecb
-可用流量: 87.58 GB https://s1.byte77.com/api/v1/client/subscribe?token=dd991771414daacc756eb417015a978a
+可用流量: 367.73 GB https://mojie.app/api/v1/client/subscribe?token=e74339f9db32da89c060c6ac6c0ff2a8
+可用流量: 651.96 GB https://aoe.o.eoa.ccwu.cc/o
+可用流量: 651.99 GB https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
+可用流量: 651.83 GB https://btxst.eu.cc/sub?token=1fb3e82d731ba1493627e9ad7a53e49b
+可用流量: 78.79 GB https://eddy1.snow00.us/api/v1/client/subscribe?token=4f7b5c11fab02db3472459c9f3228ecb
+可用流量: 87.3 GB https://s1.byte77.com/api/v1/client/subscribe?token=dd991771414daacc756eb417015a978a
 可用流量: 931135401.87 GB https://xship.top/v1/subscribe?starlink=qQF1plCfdKF6qPJbFAewdTOa
 可用流量: 961089.12 GB https://www.xrayvip.com/free.txt
 
@@ -33,7 +32,6 @@ https://mojie.app/api/v1/client/subscribe?token=e74339f9db32da89c060c6ac6c0ff2a8
 https://s1.byte77.com/api/v1/client/subscribe?token=dd991771414daacc756eb417015a978a
 https://sub.pusytroller.gq/?url=freenodes
 https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#ShadowProxy66
-https://suba.f2vip.net/api/v1/client/subscribe?token=a0119066eb338bdab1d4cb7ffac1e2b4
 https://vip.putata.eu.org/oao
 https://wed.13333331.xyz/nba/bi/gfw/2b440b5b596416b579e01dedd00c1ebe
 https://www.xrayvip.com/free.txt
