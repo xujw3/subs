@@ -5,30 +5,34 @@
 可用流量: 100.0 GB https://vip.putata.eu.org/oao
 可用流量: 1000000000.0 GB https://2.juanwangjc.top/juanwang/dingyue1/sub1/babiq?token=1a7a3ead1236137ee05d77bd6a21af7e
 可用流量: 101373.0 GB https://sub.pusytroller.gq/?url=freenodes
-可用流量: 963.88 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
-可用流量: 483.58 GB https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=8f86a28ed7558f2684fda45213eb84dc
-可用流量: 132.95 GB https://wed.13333331.xyz/nba/bi/gfw/2b440b5b596416b579e01dedd00c1ebe
-可用流量: 682.21 GB https://ys.jiedianxielou.workers.dev:443
-可用流量: 24463.59 GB https://aoe.o.eoa.ccwu.cc/o
-可用流量: 24463.41 GB https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
-可用流量: 24463.43 GB https://btxst.eu.cc/sub?token=1fb3e82d731ba1493627e9ad7a53e49b
-可用流量: 26.95 GB https://jkun.waimaosass.icu/api/v1/client/subscribe?token=53fc89435afa56fc149075d0f503149d
+可用流量: 482.82 GB https://47.112.97.173:5000/api/v1/client/subscribe?token=26cb48926655cda677b068c4d212108d
+可用流量: 187.21 GB https://47.242.128.61:5000/api/v1/client/subscribe?token=41975f235b608d3953afc06cddaa843f
+可用流量: 83.75 GB https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=f6645026ec5b4bf975ea5791b40b0e4a
+可用流量: 315.97 GB https://ys.jiedianxielou.workers.dev:443
+可用流量: 158.63 GB https://zhuzhuzhu.whtjdasha.com/dazhutou/63ab4183176594b550df3c597f82d36b
+可用流量: 2076.94 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
+可用流量: 20616.64 GB https://aoe.o.eoa.ccwu.cc/o
+可用流量: 20621.61 GB https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
+可用流量: 20621.67 GB https://btxst.eu.cc/sub?token=1fb3e82d731ba1493627e9ad7a53e49b
+可用流量: 568.24 GB https://mojie.app/api/v1/client/subscribe?token=8f3d49f0e449452fa3c68b705ea125b8
 可用流量: 349.94 GB https://cccloud.zangcloud.xyz/ai/m3u8/xppt/sub?token=a885d9fbeefc0249fd9a84632f7c18d5
-可用流量: 353.43 GB https://mojie.app/api/v1/client/subscribe?token=e74339f9db32da89c060c6ac6c0ff2a8
-可用流量: 70.05 GB https://eddy1.snow00.us/api/v1/client/subscribe?token=4f7b5c11fab02db3472459c9f3228ecb
-可用流量: 87.3 GB https://s1.byte77.com/api/v1/client/subscribe?token=dd991771414daacc756eb417015a978a
+可用流量: 76.62 GB https://z.kukeyun.cc/s/eca8cd2495356f044961e82b7411aba7
+可用流量: 86.13 GB https://wed.13333331.xyz/nba/bi/gfw/2b440b5b596416b579e01dedd00c1ebe
+可用流量: 87.09 GB https://s1.byte77.com/api/v1/client/subscribe?token=dd991771414daacc756eb417015a978a
 可用流量: 931135401.87 GB https://xship.top/v1/subscribe?starlink=qQF1plCfdKF6qPJbFAewdTOa
 可用流量: 961089.12 GB https://www.xrayvip.com/free.txt
+可用流量: 99992.06 GB https://download.8886698.xyz/api/v1/client/subscribe?token=211a780c0135fca07b8f2049ad174828
 
 -- sub_list --
 
 https://2.juanwangjc.top/juanwang/dingyue1/sub1/babiq?token=1a7a3ead1236137ee05d77bd6a21af7e
+https://47.112.97.173:5000/api/v1/client/subscribe?token=6eb40fad2c38da9644f2d74eb2fae757
+https://47.242.128.61:5000/api/v1/client/subscribe?token=868ef2ec4b3776d8845675ba8898a2c4
 https://aier.eu.cc/sub?token=fc559fd62a07f8f30e293ad01528a0ce
 https://aoe.o.eoa.ccwu.cc/o
 https://btxst.eu.cc/sub?token=1fb3e82d731ba1493627e9ad7a53e49b
 https://cccloud.zangcloud.xyz/ai/m3u8/xppt/sub?token=a885d9fbeefc0249fd9a84632f7c18d5
-https://eddy1.snow00.us/api/v1/client/subscribe?token=4f7b5c11fab02db3472459c9f3228ecb
-https://jkun.waimaosass.icu/api/v1/client/subscribe?token=53fc89435afa56fc149075d0f503149d
+https://download.8886698.xyz/api/v1/client/subscribe?token=211a780c0135fca07b8f2049ad174828
 https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
 https://mojie.app/api/v1/client/subscribe?token=e74339f9db32da89c060c6ac6c0ff2a8
@@ -41,3 +45,5 @@ https://wed.13333331.xyz/nba/bi/gfw/2b440b5b596416b579e01dedd00c1ebe
 https://www.xrayvip.com/free.txt
 https://xship.top/v1/subscribe?starlink=qQF1plCfdKF6qPJbFAewdTOa
 https://ys.jiedianxielou.workers.dev:443
+https://z.kukeyun.cc/s/eca8cd2495356f044961e82b7411aba7
+https://zhuzhuzhu.whtjdasha.com/dazhutou/63ab4183176594b550df3c597f82d36b
