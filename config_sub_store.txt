@@ -4,28 +4,24 @@
 可用流量: 100.0 GB https://vip.putata.eu.org/oao
 可用流量: 1000000000.0 GB https://2.juanwangjc.top/juanwang/dingyue1/sub1/babiq?token=1a7a3ead1236137ee05d77bd6a21af7e
 可用流量: 101373.0 GB https://sub.pusytroller.gq/?url=freenodes
-可用流量: 729.19 GB https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=551e7c403fab46cc002e8bb7cde6285f
-可用流量: 129.56 GB http://154.17.23.118:3385/api/v1/client/subscribe?token=095865abedb7c19f51745bfc28fa89d8
-可用流量: 270.05 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
-可用流量: 145.95 GB https://2.342242.icu/api/v1/client/subscribe?token=301e67b91627af1dc3a5691f25a95734
-可用流量: 169.97 GB https://UqYEryVb.doggygosubs.com:8443/api/v1/client/1ad44caa0585937ac56db6c22546e266
-可用流量: 217.92 GB https://ys.jiedianxielou.workers.dev:443
-可用流量: 272.88 GB https://47.242.128.61:5000/api/v1/client/subscribe?token=c192b34326977efd1c742fe9feb4684e
-可用流量: 98.82 GB https://47.112.97.173:5000/api/v1/client/subscribe?token=d31bf4c2297cac94f745fdbce0def5be
+可用流量: 710.88 GB https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=551e7c403fab46cc002e8bb7cde6285f
+可用流量: 135.14 GB https://UqYEryVb.doggygosubs.com:8443/api/v1/client/1ad44caa0585937ac56db6c22546e266
+可用流量: 750.27 GB https://ys.jiedianxielou.workers.dev:443
+可用流量: 570.38 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
+可用流量: 231.3 GB https://47.242.128.61:5000/api/v1/client/subscribe?token=c192b34326977efd1c742fe9feb4684e
+可用流量: 90.46 GB https://47.112.97.173:5000/api/v1/client/subscribe?token=d31bf4c2297cac94f745fdbce0def5be
 可用流量: 349.94 GB https://cccloud.zangcloud.xyz/ai/m3u8/xppt/sub?token=a885d9fbeefc0249fd9a84632f7c18d5
-可用流量: 46.74 GB https://knotic.net/sub/bbf25343a71ef115/clash
-可用流量: 85.97 GB https://s1.byte77.com/api/v1/client/subscribe?token=dd991771414daacc756eb417015a978a
-可用流量: 9057.55 GB https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
-可用流量: 9057.81 GB https://aoe.o.eoa.ccwu.cc/o
-可用流量: 9057.82 GB https://btxst.eu.cc/sub?token=1fb3e82d731ba1493627e9ad7a53e49b
+可用流量: 46.7 GB https://knotic.net/sub/bbf25343a71ef115/clash
+可用流量: 7113.7 GB https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
+可用流量: 7113.25 GB https://aoe.o.eoa.ccwu.cc/o
+可用流量: 7113.28 GB https://btxst.eu.cc/sub?token=1fb3e82d731ba1493627e9ad7a53e49b
+可用流量: 85.95 GB https://s1.byte77.com/api/v1/client/subscribe?token=dd991771414daacc756eb417015a978a
 可用流量: 931135401.87 GB https://xship.top/v1/subscribe?starlink=qQF1plCfdKF6qPJbFAewdTOa
 可用流量: 961089.12 GB https://www.xrayvip.com/free.txt
-可用流量: 98903.77 GB https://download.8886698.xyz/api/v1/client/subscribe?token=211a780c0135fca07b8f2049ad174828
+可用流量: 98640.75 GB https://download.8886698.xyz/api/v1/client/subscribe?token=211a780c0135fca07b8f2049ad174828
 
 -- sub_list --
 
-http://154.17.23.118:3385/api/v1/client/subscribe?token=095865abedb7c19f51745bfc28fa89d8
-https://2.342242.icu/api/v1/client/subscribe?token=fdeba462f4d949718e7137dc6e6d78e8
 https://2.juanwangjc.top/juanwang/dingyue1/sub1/babiq?token=1a7a3ead1236137ee05d77bd6a21af7e
 https://47.112.97.173:5000/api/v1/client/subscribe?token=f2ced60653d32a7c89a1bb6bea36d615
 https://47.242.128.61:5000/api/v1/client/subscribe?token=c192b34326977efd1c742fe9feb4684e
@@ -37,7 +33,7 @@ https://download.8886698.xyz/api/v1/client/subscribe?token=211a780c0135fca07b8f2
 https://knotic.net/sub/bbf25343a71ef115/clash
 https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
-https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=b1d337b0a0ae33a87678cae4aa2aaaba
+https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=af0585a6cc6f4d34417b22bc52b1ada3
 https://s1.byte77.com/api/v1/client/subscribe?token=dd991771414daacc756eb417015a978a
 https://sub.pusytroller.gq/?url=freenodes
 https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#ShadowProxy66
