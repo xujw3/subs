@@ -147,6 +147,7 @@ tgchannel:
 v2订阅:
 - http://154.17.23.118:3385/api/v1/client/subscribe?token=4bb10d2f0f99951a5464abef28ace343
 - http://176.65.241.236/
+- http://185.208.183.29/
 - http://185.51.200.1/
 - http://1jj03.net/
 - http://6g123.com/
@@ -184,11 +185,11 @@ v2订阅:
 - https://v2rayse.com/vsm
 - https://www.anthropic.com/news/introducing-anthropic-labs
 - https://www.applnn.com/64.html
-- http://www.awsy.top/
 - http://www.bing.com/#%F0%9F%87%BA%F0%9F%87%B8US_1%7C3.3MB%2Fs
 - http://www.icloud.com/
 - http://www.kiava.net/
 - http://www.paypal.com/
+- https://xbs527.com/
 - http://yunge.in/
 - https://2.342242.icu/api/v1/client/subscribe?token=fdeba462f4d949718e7137dc6e6d78e8
 - https://47.242.128.61:5000/api/v1/client/subscribe?token=c192b34326977efd1c742fe9feb4684e
@@ -253,6 +254,7 @@ v2订阅:
 - https://infini-cloud.net/en/campaign_12th-anniversary-1.html
 - https://influe.space/
 - https://insidead.ru/+xkw2nx
+- https://www.instagram.com/reel/DUIRc4aCkEz/?igsh=NTc4MTIwNjQ2YQ==
 - https://iuiu.lovebabyforever.workers.dev/
 - https://jichangtuijian.com/proxyclient
 - https://jimubiedao.com/
@@ -330,7 +332,6 @@ v2订阅:
 - https://www.emailondeck.com/
 - https://www.evernote.com/l/AaF79psMKRZAOLA0IOrV8CQfjdssm_1f9N4/
 - https://www.figma.com/blog/the-figma-canvas-is-now-open-to-agents/
-- https://www.instagram.com/reel/DUIRc4aCkEz/?igsh=NTc4MTIwNjQ2YQ==
 - https://www.jiuyuelu.xyz/auth?invite=uuSrVy1t
 - https://www.kimi.com/code
 - https://www.kuaigou.life/api/v1/client/subscribe?token=a86d661a33ddfd886d8dbc7b246d50c6
@@ -345,7 +346,6 @@ v2订阅:
 - https://youtube.com/@blackdroid-mm
 - https://x.v50.lat/view.php?id=e05d4ca51dec9185
 - https://xb.inekokkk.com/amei/54194127b8bc20294f3fc8e96e3a2c66
-- https://xbs527.com/
 - https://xsus.jolqx.cn/api/v1/client/subscribe?token=d3e458b4534322953263f2631d25ed80
 - https://y.kukeyun.cc/s/e61300b406c65587cd77372a4e9a7a93
 - https://youtu.be/hk20saMjtmo
@@ -355,25 +355,25 @@ v2订阅:
 - '可用流量: 100.0 GB https://vip.putata.eu.org/oao'
 - '可用流量: 1000000000.0 GB https://2.juanwangjc.top/juanwang/dingyue1/sub1/babiq?token=1a7a3ead1236137ee05d77bd6a21af7e'
 - '可用流量: 101373.0 GB https://sub.pusytroller.gq/?url=freenodes'
-- '可用流量: 248.02 GB https://ys.jiedianxielou.workers.dev:443'
-- '可用流量: 117.79 GB https://rss-starlink.ei38d3if3.xyz/s/f52ffc98b009f0ee2c59eb8cdcfa8f49'
-- '可用流量: 877.2 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168'
-- '可用流量: 14725.36 GB https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c'
-- '可用流量: 14726.27 GB https://aoe.o.eoa.ccwu.cc/o'
-- '可用流量: 14725.5 GB https://hha.albertabobbi.ndjp.net/sub?token=0dae672be75b12550a98be8fa66458f2'
-- '可用流量: 14725.89 GB https://btxst.eu.cc/sub?token=1fb3e82d731ba1493627e9ad7a53e49b'
-- '可用流量: 1765.7 GB https://link.onesy.link/link/EoAeZ9jRhWCbn542?sub=3'
-- '可用流量: 23.6 GB https://www.edeyuan.com/s/bd90a406dca82c177e527d4c4cf7b2be'
-- '可用流量: 31.89 GB https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=5a36b3af28b01139de6a02b7bc38287d'
+- '可用流量: 355.74 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168'
+- '可用流量: 1165.93 GB https://ys.jiedianxielou.workers.dev:443'
+- '可用流量: 117.76 GB https://rss-starlink.ei38d3if3.xyz/s/f52ffc98b009f0ee2c59eb8cdcfa8f49'
+- '可用流量: 13854.0 GB https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c'
+- '可用流量: 13853.61 GB https://hha.albertabobbi.ndjp.net/sub?token=0dae672be75b12550a98be8fa66458f2'
+- '可用流量: 13854.03 GB https://aoe.o.eoa.ccwu.cc/o'
+- '可用流量: 13853.53 GB https://btxst.eu.cc/sub?token=1fb3e82d731ba1493627e9ad7a53e49b'
+- '可用流量: 1764.64 GB https://link.onesy.link/link/EoAeZ9jRhWCbn542?sub=3'
+- '可用流量: 22.48 GB https://www.edeyuan.com/s/bd90a406dca82c177e527d4c4cf7b2be'
+- '可用流量: 30.9 GB https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=5a36b3af28b01139de6a02b7bc38287d'
 - '可用流量: 349.94 GB https://cccloud.zangcloud.xyz/ai/m3u8/xppt/sub?token=a885d9fbeefc0249fd9a84632f7c18d5'
-- '可用流量: 419.04 GB https://as.cnqq.de/q/23c31a3a6a2930a931dbb774c52ffff8'
-- '可用流量: 511811.24 GB https://1o2.690423.xyz:8081/hui/myptyun.Hu5bS3VYUd3iqmaU'
+- '可用流量: 417.16 GB https://as.cnqq.de/q/23c31a3a6a2930a931dbb774c52ffff8'
+- '可用流量: 511806.97 GB https://1o2.690423.xyz:8081/hui/myptyun.Hu5bS3VYUd3iqmaU'
 - '可用流量: 58.73 GB https://xmm.maimaiyun.shop/api/v1/xmm?token=/37908b9f7da3019e2b868ea5b85e4421'
 - '可用流量: 5872.08 GB https://jsjc.cfd/api/v1/client/subscribe?token=c6589ad8d2d14722608e917144b6b46f'
-- '可用流量: 8.78 GB https://anotherdy.020118119.best/another/6ccc2823dee474ce7b83f5275fe461e6'
+- '可用流量: 8.77 GB https://anotherdy.020118119.best/another/6ccc2823dee474ce7b83f5275fe461e6'
 - '可用流量: 84.42 GB https://s1.byte77.com/api/v1/client/subscribe?token=dd991771414daacc756eb417015a978a'
 - '可用流量: 931135401.87 GB https://xship.top/v1/subscribe?starlink=qQF1plCfdKF6qPJbFAewdTOa'
-- '可用流量: 94252.05 GB https://download.8886698.xyz/api/v1/client/subscribe?token=211a780c0135fca07b8f2049ad174828'
+- '可用流量: 94142.07 GB https://download.8886698.xyz/api/v1/client/subscribe?token=211a780c0135fca07b8f2049ad174828'
 - '可用流量: 961089.12 GB https://www.xrayvip.com/free.txt'
 - '可用流量: 9999999999.0 GB https://s.vip54.dpdns.org/nlDtrSaT'
 机场订阅:
