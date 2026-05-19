@@ -1,15 +1,16 @@
 -- play_list --
 
-可用流量: 1.27 GB https://station.tuotuoyun.vip/zx87asd90ve/ndjfh14/?token=fe23210d7facd5d34a126c6adf590ad3
+可用流量: 1.24 GB https://station.tuotuoyun.vip/zx87asd90ve/ndjfh14/?token=fe23210d7facd5d34a126c6adf590ad3
 可用流量: 100.0 GB https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#ShadowProxy66
-可用流量: 1801.31 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
-可用流量: 16.35 GB https://s1.byte77.com/api/v1/client/subscribe?token=dd991771414daacc756eb417015a978a
+可用流量: 1575.33 GB https://ys.jiedianxielou.workers.dev:443
+可用流量: 1414.91 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
+可用流量: 16.05 GB https://s1.byte77.com/api/v1/client/subscribe?token=dd991771414daacc756eb417015a978a
 可用流量: 1778.76 GB https://link.onesy.link/link/EoAeZ9jRhWCbn542?sub=3
-可用流量: 1914.49 GB https://ys.jiedianxielou.workers.dev:443
 可用流量: 1985.15 GB https://GYKXQd.nicecloud.win:8443/api/v1/client/ba9afb03f303b578e1f72ce54c432546
-可用流量: 19906102.99 GB https://app.farnet.top/s/cc1cf441ef2b288322779b6fff70ba76?flag=meta
-可用流量: 3528.95 GB https://www5.bigairport-thirteenth-sub.com/api/v1/client/subscribe?token=2f861b74d3870ff23abb77a646b60838
-可用流量: 357.2 GB https://www7th.ga-sub.hair/api/v1/client/subscribe?token=327c174bc48b232d3871c6ffb3f8a25d
+可用流量: 19906093.39 GB https://app.farnet.top/s/cc1cf441ef2b288322779b6fff70ba76?flag=meta
+可用流量: 297.68 GB https://starlink.aliyundeepsearch.sbs/s/8f320fc030e5713d640702e922ad3819
+可用流量: 3523.33 GB https://www5.bigairport-thirteenth-sub.com/api/v1/client/subscribe?token=2f861b74d3870ff23abb77a646b60838
+可用流量: 355.13 GB https://www7th.ga-sub.hair/api/v1/client/subscribe?token=327c174bc48b232d3871c6ffb3f8a25d
 可用流量: 3991.81 GB https://dash.djjc.cfd/api/v1/client/subscribe?token=c1c0bd4752d4ea34e82064a8469ce72f
 可用流量: 449.05 GB https://liangxin.xyz/api/v1/liangxin?OwO=99707f054d8fb6a3d7aba96d5a03f7ca
 可用流量: 896.7 GB https://dash.xn--cp3a08l.com/api/v1/pq/3b325fb4ff18cc04e1625bd844fd4273
@@ -30,6 +31,7 @@ https://link.onesy.link/link/EoAeZ9jRhWCbn542?sub=3
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
 https://s.vip54.dpdns.org/nlDtrSaT
 https://s1.byte77.com/api/v1/client/subscribe?token=dd991771414daacc756eb417015a978a
+https://starlink.aliyundeepsearch.sbs/s/8f320fc030e5713d640702e922ad3819
 https://station.tuotuoyun.vip/zx87asd90ve/ndjfh14/?token=fe23210d7facd5d34a126c6adf590ad3
 https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#ShadowProxy66
 https://www.xrayvip.com/free.txt
