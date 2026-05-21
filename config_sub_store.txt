@@ -1,19 +1,17 @@
 -- play_list --
 
 可用流量: 100.0 GB https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#ShadowProxy66
-可用流量: 797.0 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
 可用流量: 1776.23 GB https://link.onesy.link/link/EoAeZ9jRhWCbn542?sub=3
 可用流量: 1985.15 GB https://GYKXQd.nicecloud.win:8443/api/v1/client/ba9afb03f303b578e1f72ce54c432546
-可用流量: 19905722.34 GB https://app.farnet.top/s/cc1cf441ef2b288322779b6fff70ba76?flag=meta
-可用流量: 2.87 GB https://suba.f2vip.net/api/v1/client/subscribe?token=fba8340c84bd9f6eb26cb3a83f018ab6
-可用流量: 294.24 GB https://www7th.ga-sub.hair/api/v1/client/subscribe?token=327c174bc48b232d3871c6ffb3f8a25d
-可用流量: 3449.43 GB https://www5.bigairport-thirteenth-sub.com/api/v1/client/subscribe?token=2f861b74d3870ff23abb77a646b60838
+可用流量: 375.46 GB https://ys.jiedianxielou.workers.dev:443
+可用流量: 19905696.91 GB https://app.farnet.top/s/cc1cf441ef2b288322779b6fff70ba76?flag=meta
+可用流量: 451.92 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
+可用流量: 294.17 GB https://www7th.ga-sub.hair/api/v1/client/subscribe?token=327c174bc48b232d3871c6ffb3f8a25d
+可用流量: 3447.31 GB https://www5.bigairport-thirteenth-sub.com/api/v1/client/subscribe?token=2f861b74d3870ff23abb77a646b60838
 可用流量: 3991.81 GB https://dash.djjc.cfd/api/v1/client/subscribe?token=c1c0bd4752d4ea34e82064a8469ce72f
 可用流量: 449.05 GB https://liangxin.xyz/api/v1/liangxin?OwO=99707f054d8fb6a3d7aba96d5a03f7ca
-可用流量: 807.39 GB https://ys.jiedianxielou.workers.dev:443
-可用流量: 54.57 GB https://service.furyun.org/furry/fur/proxy/26b7dab3559aeafc3bd45036d3b9c747
-可用流量: 8172.97 GB https://kalami-eew.pages.dev/sub?token=b1e112df393c9b147f4222ece3efb8c0
-可用流量: 8172.39 GB https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
+可用流量: 5687.05 GB https://kalami-eew.pages.dev/sub?token=b1e112df393c9b147f4222ece3efb8c0
+可用流量: 5686.95 GB https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
 可用流量: 9999999999.0 GB https://s.vip54.dpdns.org/nlDtrSaT
 
 -- sub_list --
@@ -27,9 +25,7 @@ https://liangxin.xyz/api/v1/liangxin?OwO=99707f054d8fb6a3d7aba96d5a03f7ca
 https://link.onesy.link/link/EoAeZ9jRhWCbn542?sub=3
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
 https://s.vip54.dpdns.org/nlDtrSaT
-https://service.furyun.org/furry/fur/proxy/26b7dab3559aeafc3bd45036d3b9c747
 https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#ShadowProxy66
-https://suba.f2vip.net/api/v1/client/subscribe?token=fba8340c84bd9f6eb26cb3a83f018ab6
 https://www5.bigairport-thirteenth-sub.com/api/v1/client/subscribe?token=2f861b74d3870ff23abb77a646b60838
 https://www7th.ga-sub.hair/api/v1/client/subscribe?token=327c174bc48b232d3871c6ffb3f8a25d
 https://ys.jiedianxielou.workers.dev:443
