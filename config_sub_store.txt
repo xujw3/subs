@@ -1,15 +1,15 @@
 -- play_list --
 
 可用流量: 100.0 GB https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#ShadowProxy66
-可用流量: 362.94 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
-可用流量: 1982.44 GB https://ys.jiedianxielou.workers.dev:443
-可用流量: 164.33 GB https://www7th.ga-sub.hair/api/v1/client/subscribe?token=327c174bc48b232d3871c6ffb3f8a25d
-可用流量: 1766.68 GB https://link.onesy.link/link/EoAeZ9jRhWCbn542?sub=3
+可用流量: 749.74 GB https://ys.jiedianxielou.workers.dev:443
+可用流量: 1745.11 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
+可用流量: 163.83 GB https://www7th.ga-sub.hair/api/v1/client/subscribe?token=327c174bc48b232d3871c6ffb3f8a25d
+可用流量: 1694.99 GB https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
+可用流量: 1766.67 GB https://link.onesy.link/link/EoAeZ9jRhWCbn542?sub=3
 可用流量: 1985.15 GB https://GYKXQd.nicecloud.win:8443/api/v1/client/ba9afb03f303b578e1f72ce54c432546
-可用流量: 19904192.4 GB https://app.farnet.top/s/cc1cf441ef2b288322779b6fff70ba76?flag=meta
-可用流量: 3219.05 GB https://www5.bigairport-thirteenth-sub.com/api/v1/client/subscribe?token=2f861b74d3870ff23abb77a646b60838
-可用流量: 346.42 GB https://subscribe-xb.xiaobaivpn.cyou/api/v1/client/subscribe?token=78a741297bf85871b2bd1d0d6a4f157f
-可用流量: 3918.7 GB https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
+可用流量: 19904157.1 GB https://app.farnet.top/s/cc1cf441ef2b288322779b6fff70ba76?flag=meta
+可用流量: 3216.85 GB https://www5.bigairport-thirteenth-sub.com/api/v1/client/subscribe?token=2f861b74d3870ff23abb77a646b60838
+可用流量: 336.25 GB https://subscribe-xb.xiaobaivpn.cyou/api/v1/client/subscribe?token=78a741297bf85871b2bd1d0d6a4f157f
 可用流量: 3991.81 GB https://dash.djjc.cfd/api/v1/client/subscribe?token=c1c0bd4752d4ea34e82064a8469ce72f
 可用流量: 857.97 GB https://liangxin.xyz/api/v1/liangxin?OwO=761855015f6fbaa6628fa76967e84fd8#%E8%89%AF%E5%BF%83%E4%BA%91
 
