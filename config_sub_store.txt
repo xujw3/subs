@@ -3,20 +3,20 @@
 可用流量: 100.0 GB http://proxypool.zshabai.cc/
 可用流量: 100.0 GB https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#ShadowProxy66
 可用流量: 102400.0 GB https://11kk.netlify.app/.netlify/functions/sub?id=1#1kk.netlify.app
-可用流量: 1779.81 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
+可用流量: 11.33 GB https://free.qingyuyun.top/user/profile/data/f75cf9eada1ca83d78bd3eb5d084f4c1
 可用流量: 1111.0 GB https://knjc.cfd/api/v1/client/subscribe?token=136a9b549bc24d8f2a68fb9bd3b893e4
-可用流量: 12.21 GB https://free.qingyuyun.top/user/profile/data/f75cf9eada1ca83d78bd3eb5d084f4c1
-可用流量: 13.1 GB https://hk-sub-qpbipkoyiw.cn-hongkong.fcapp.run/sub/d7c01fa425ab7a89/v2ray?carrier=overseas#tuic
 可用流量: 1311.16 GB https://link.onesy.link/link/EoAeZ9jRhWCbn542?sub=3
+可用流量: 745.15 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
 可用流量: 1931.49 GB https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
 可用流量: 1985.15 GB https://GYKXQd.nicecloud.win:8443/api/v1/client/ba9afb03f303b578e1f72ce54c432546
-可用流量: 355.28 GB https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
+可用流量: 23446.44 GB https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
 可用流量: 3991.81 GB https://dash.djjc.cfd/api/v1/client/subscribe?token=c1c0bd4752d4ea34e82064a8469ce72f
 可用流量: 857.97 GB https://liangxin.xyz/api/v1/liangxin?OwO=761855015f6fbaa6628fa76967e84fd8#%E8%89%AF%E5%BF%83%E4%BA%91
 可用流量: 464.58 GB https://47.76.155.27/iv/verify_mode.htm?token=b5abeb9e061cb862a0fbe604102f0bd5&amp;sid=nano
-可用流量: 9999250.73 GB https://api.laodayun.com/s/aa6d00a002b1551acddf3be3110d8ae1
-可用流量: 9999295.94 GB https://s1.laoda666.com/s/ccfe77743c63f6a52d321825656ec1c1
-可用流量: 9999532.29 GB https://s4.laoda666.com/s/33fa99fe725f652e94474d97e7fcde9f#
+可用流量: 961089.12 GB https://www.xrayvip.com/free.txt
+可用流量: 9999250.48 GB https://api.laodayun.com/s/aa6d00a002b1551acddf3be3110d8ae1
+可用流量: 9999294.58 GB https://s1.laoda666.com/s/ccfe77743c63f6a52d321825656ec1c1
+可用流量: 9999531.92 GB https://s4.laoda666.com/s/33fa99fe725f652e94474d97e7fcde9f#
 
 -- sub_list --
 
@@ -28,7 +28,6 @@ https://api.laodayun.com/s/aa6d00a002b1551acddf3be3110d8ae1
 https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
 https://dash.djjc.cfd/api/v1/client/subscribe?token=c1c0bd4752d4ea34e82064a8469ce72f
 https://free.qingyuyun.top/user/profile/data/f75cf9eada1ca83d78bd3eb5d084f4c1
-https://hk-sub-qpbipkoyiw.cn-hongkong.fcapp.run/sub/d7c01fa425ab7a89/v2ray?carrier=overseas#tuic
 https://knjc.cfd/api/v1/client/subscribe?token=136a9b549bc24d8f2a68fb9bd3b893e4
 https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
 https://liangxin.xyz/api/v1/liangxin?OwO=99707f054d8fb6a3d7aba96d5a03f7ca
@@ -37,3 +36,4 @@ https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b4
 https://s1.laoda666.com/s/ccfe77743c63f6a52d321825656ec1c1
 https://s4.laoda666.com/s/33fa99fe725f652e94474d97e7fcde9f#
 https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#ShadowProxy66
+https://www.xrayvip.com/free.txt
