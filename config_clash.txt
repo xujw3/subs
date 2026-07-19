@@ -1,6 +1,4 @@
 https://update.glados-config.com/subscribe/689432/48c0bb8/127280/servers
-https://chromego-sub.netlify.app/sub/merged_proxies_new.yaml
-https://nodebuf.com/files/public/cmrrqvecu5gy6pi5w9i6ssldd/download
 https://chaoxie.351264.xyz/c/SkylineConnectJP
-https://xjj.zzxi.de/79073de0eba1efcd8a39ef986ff5fcc3
-https://ctp.ct8.pl/9002.yaml
+https://nodebuf.com/files/public/cmrrqvecu5gy6pi5w9i6ssldd/download
+https://chromego-sub.netlify.app/sub/merged_proxies_new.yaml
