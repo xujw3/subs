@@ -3,28 +3,25 @@
 可用流量: 100.0 GB https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#ShadowProxy66
 可用流量: 102400.0 GB https://11kk.netlify.app/.netlify/functions/sub?id=1#1kk.netlify.app
 可用流量: 1111.0 GB https://knjc.cfd/api/v1/client/subscribe?token=136a9b549bc24d8f2a68fb9bd3b893e4
+可用流量: 2191.19 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
 可用流量: 1292.6 GB https://link.onesy.link/link/EoAeZ9jRhWCbn542?sub=3
-可用流量: 17008.41 GB https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
+可用流量: 14837.91 GB https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
 可用流量: 1931.49 GB https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
 可用流量: 1985.15 GB https://GYKXQd.nicecloud.win:8443/api/v1/client/ba9afb03f303b578e1f72ce54c432546
-可用流量: 296.22 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
 可用流量: 212.52 GB https://xy.udptoos.com/xy22
-可用流量: 32.77 GB http://103.36.135.125:8123/api/v1/client/subscribe?token=2a6d47a7472af6c6c29d7bc56a859ebf
 可用流量: 3991.81 GB https://dash.djjc.cfd/api/v1/client/subscribe?token=c1c0bd4752d4ea34e82064a8469ce72f
 可用流量: 857.97 GB https://liangxin.xyz/api/v1/liangxin?OwO=761855015f6fbaa6628fa76967e84fd8#%E8%89%AF%E5%BF%83%E4%BA%91
+可用流量: 5368900.9 GB https://mar.bbc.xx.kg/?b64
 可用流量: 464.58 GB https://47.76.155.27/iv/verify_mode.htm?token=b5abeb9e061cb862a0fbe604102f0bd5&amp;sid=nano
-可用流量: 8066614.32 GB https://mar.bbc.xx.kg/?b64
-可用流量: 7.53 GB https://cdn.pikayun.com/s/39cd0ff176734be4e540ae0f0fad3d3b
+可用流量: 7.23 GB https://cdn.pikayun.com/s/39cd0ff176734be4e540ae0f0fad3d3b
 可用流量: 961089.12 GB https://www.xrayvip.com/free.txt
-可用流量: 98.49 GB https://47.238.236.131/iv/verify_mode.htm?token=8e8640227102d5c0c2c5ccdf3635992f&amp;sid=nano
-可用流量: 98.82 GB https://content.monikacloud.net/skt/1e9316c548e405b3be7910896a0e749f
-可用流量: 9999203.73 GB https://api.laodayun.com/s/aa6d00a002b1551acddf3be3110d8ae1
-可用流量: 9999255.8 GB https://s1.laoda666.com/s/ccfe77743c63f6a52d321825656ec1c1
-可用流量: 9999503.91 GB https://s4.laoda666.com/s/33fa99fe725f652e94474d97e7fcde9f##https://dy11.baipiaoyes.com/api/v1/client/subscribe?token=f56f38c96eab9329ac92f48a1b35fdf7
+可用流量: 97.79 GB https://47.238.236.131/iv/verify_mode.htm?token=8e8640227102d5c0c2c5ccdf3635992f&amp;sid=nano
+可用流量: 9999202.95 GB https://api.laodayun.com/s/aa6d00a002b1551acddf3be3110d8ae1
+可用流量: 9999254.4 GB https://s1.laoda666.com/s/ccfe77743c63f6a52d321825656ec1c1
+可用流量: 9999502.76 GB https://s4.laoda666.com/s/33fa99fe725f652e94474d97e7fcde9f##https://dy11.baipiaoyes.com/api/v1/client/subscribe?token=f56f38c96eab9329ac92f48a1b35fdf7
 
 -- sub_list --
 
-http://103.36.135.125:8123/api/v1/client/subscribe?token=2a6d47a7472af6c6c29d7bc56a859ebf
 https://11kk.netlify.app/.netlify/functions/sub?id=1#1kk.netlify.app
 https://47.238.236.131/iv/verify_mode.htm?token=8e8640227102d5c0c2c5ccdf3635992f&amp;sid=nano
 https://47.76.155.27/iv/verify_mode.htm?token=b5abeb9e061cb862a0fbe604102f0bd5&amp;sid=nano
@@ -32,7 +29,6 @@ https://GYKXQd.nicecloud.win:8443/api/v1/client/ba9afb03f303b578e1f72ce54c432546
 https://api.laodayun.com/s/aa6d00a002b1551acddf3be3110d8ae1
 https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
 https://cdn.pikayun.com/s/39cd0ff176734be4e540ae0f0fad3d3b
-https://content.monikacloud.net/skt/1e9316c548e405b3be7910896a0e749f
 https://dash.djjc.cfd/api/v1/client/subscribe?token=c1c0bd4752d4ea34e82064a8469ce72f
 https://knjc.cfd/api/v1/client/subscribe?token=136a9b549bc24d8f2a68fb9bd3b893e4
 https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
