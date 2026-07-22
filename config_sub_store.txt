@@ -6,22 +6,21 @@
 可用流量: 1111.0 GB https://knjc.cfd/api/v1/client/subscribe?token=136a9b549bc24d8f2a68fb9bd3b893e4
 可用流量: 1931.49 GB https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
 可用流量: 1985.15 GB https://GYKXQd.nicecloud.win:8443/api/v1/client/ba9afb03f303b578e1f72ce54c432546
+可用流量: 390.18 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
 可用流量: 212.52 GB https://xy.udptoos.com/xy22
-可用流量: 29.72 GB https://xboard.kaoqy.me/s/f1eea6f02aa46e0eab4182ca7b683c92
-可用流量: 5279329.25 GB https://mar.bbc.xx.kg/?b64
+可用流量: 5758455.94 GB https://mar.bbc.xx.kg/?b64
 可用流量: 3991.81 GB https://dash.djjc.cfd/api/v1/client/subscribe?token=c1c0bd4752d4ea34e82064a8469ce72f
 可用流量: 894.22 GB https://liangxin.xyz/api/v1/liangxin?OwO=02de409f6081694d658b971aca5610e8
 可用流量: 464.58 GB https://47.76.155.27/iv/verify_mode.htm?token=b5abeb9e061cb862a0fbe604102f0bd5&amp;sid=nano
 可用流量: 482.78 GB https://PHd6BMEO.doggygosubs.com:8443/api/v1/client/962c64e3f64b180cab1fe3bd2440d554
-可用流量: 6277.57 GB https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
-可用流量: 765.51 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
-可用流量: 790.9 GB https://www5.bigairport-eleventh-sub.com/api/v1/client/subscribe?token=0bac18c0a494f001f862e200217a926e
+可用流量: 5098.77 GB https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
+可用流量: 788.56 GB https://www5.bigairport-eleventh-sub.com/api/v1/client/subscribe?token=0bac18c0a494f001f862e200217a926e
 可用流量: 89.96 GB https://47.238.236.131/iv/verify_mode.htm?token=8e8640227102d5c0c2c5ccdf3635992f&amp;sid=nano
-可用流量: 9121.67 GB http://101.34.215.56:8848/s/17db993eae833635511446f3043397f7
+可用流量: 9043.01 GB http://101.34.215.56:8848/s/17db993eae833635511446f3043397f7
 可用流量: 961089.12 GB https://www.xrayvip.com/free.txt
-可用流量: 9999191.39 GB https://api.laodayun.com/s/8a7871c791b3e74c2701e0b9639a5249#
-可用流量: 9999196.16 GB https://s1.laoda666.com/s/ccfe77743c63f6a52d321825656ec1c1
-可用流量: 9999473.57 GB https://s4.laoda666.com/s/33fa99fe725f652e94474d97e7fcde9f##https://dy11.baipiaoyes.com/api/v1/client/subscribe?token=f56f38c96eab9329ac92f48a1b35fdf7
+可用流量: 9999191.3 GB https://api.laodayun.com/s/8a7871c791b3e74c2701e0b9639a5249#
+可用流量: 9999196.11 GB https://s1.laoda666.com/s/ccfe77743c63f6a52d321825656ec1c1
+可用流量: 9999472.98 GB https://s4.laoda666.com/s/33fa99fe725f652e94474d97e7fcde9f##https://dy11.baipiaoyes.com/api/v1/client/subscribe?token=f56f38c96eab9329ac92f48a1b35fdf7
 
 -- sub_list --
 
@@ -45,5 +44,4 @@ https://s4.laoda666.com/s/33fa99fe725f652e94474d97e7fcde9f##https://dy11.baipiao
 https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#ShadowProxy66
 https://www.xrayvip.com/free.txt
 https://www5.bigairport-eleventh-sub.com/api/v1/client/subscribe?token=0bac18c0a494f001f862e200217a926e
-https://xboard.kaoqy.me/s/f1eea6f02aa46e0eab4182ca7b683c92
 https://xy.udptoos.com/xy22
