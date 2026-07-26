@@ -1,7 +1,4 @@
 https://update.glados-config.com/subscribe/689432/48c0bb8/127280/servers
+https://raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml
 https://chaoxie.351264.xyz/c/SkylineConnectJP
 https://nodebuf.com/files/public/cms1qxepb20smvi5wmjq99vgg/download
-https://gh-proxy.com/raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml
-https://gist.github.com/go4sharing/d21555d607e3f395b7568b5f39c4fdd8/raw/99f21be91cb04b55c2d4286478158cee985afbdc/gistfile1.txt
-https://raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml
-https://ta.mao2cloud.com/m2?token=443269217fdf6212119b1379429f1ff6
