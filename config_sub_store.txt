@@ -4,25 +4,23 @@
 可用流量: 100.0 GB https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#ShadowProxy66
 可用流量: 1022976.0 GB https://open.edu-uk.kdns.fr/sub/user/eyJ1IjoiNzc3NyIsImUiOjI0NTY2ODY1ODk5OTUsInMiOiI4YWJjM2Y0Yzk1NDA2NjUyIn0?protocol=default
 可用流量: 1111.0 GB https://knjc.cfd/api/v1/client/subscribe?token=136a9b549bc24d8f2a68fb9bd3b893e4
-可用流量: 668.04 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
+可用流量: 941.02 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
 可用流量: 1931.49 GB https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
 可用流量: 1985.15 GB https://GYKXQd.nicecloud.win:8443/api/v1/client/ba9afb03f303b578e1f72ce54c432546
 可用流量: 212.52 GB https://xy.udptoos.com/xy22
 可用流量: 3991.81 GB https://dash.djjc.cfd/api/v1/client/subscribe?token=c1c0bd4752d4ea34e82064a8469ce72f
-可用流量: 5491914.65 GB https://mar.bbc.xx.kg/?b64
 可用流量: 449.05 GB https://liangxin.xyz/api/v1/liangxin?OwO=99707f054d8fb6a3d7aba96d5a03f7ca
 可用流量: 464.58 GB https://47.76.155.27/iv/verify_mode.htm?token=b5abeb9e061cb862a0fbe604102f0bd5&amp;sid=nano
-可用流量: 4839.01 GB https://xboard.kaoqy.me/s/f1eea6f02aa46e0eab4182ca7b683c92
-可用流量: 69.26 GB https://38.76.179.154:59877/j6a8rhxgr82k/51rujm0yn6g3nimo
-可用流量: 8159.31 GB https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
+可用流量: 4779.37 GB https://xboard.kaoqy.me/s/f1eea6f02aa46e0eab4182ca7b683c92
+可用流量: 6137821.56 GB https://mar.bbc.xx.kg/?b64
+可用流量: 5939.09 GB https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
 可用流量: 89.96 GB https://47.238.236.131/iv/verify_mode.htm?token=8e8640227102d5c0c2c5ccdf3635992f&amp;sid=nano
 可用流量: 961089.12 GB https://www.xrayvip.com/free.txt
-可用流量: 9999180.74 GB https://api.laodayun.com/s/8a7871c791b3e74c2701e0b9639a5249
-可用流量: 9999447.07 GB https://s4.laoda666.com/s/33fa99fe725f652e94474d97e7fcde9f##https://dy11.baipiaoyes.com/api/v1/client/subscribe?token=f56f38c96eab9329ac92f48a1b35fdf7
+可用流量: 9999180.7 GB https://api.laodayun.com/s/8a7871c791b3e74c2701e0b9639a5249
+可用流量: 9999446.86 GB https://s4.laoda666.com/s/33fa99fe725f652e94474d97e7fcde9f##https://dy11.baipiaoyes.com/api/v1/client/subscribe?token=f56f38c96eab9329ac92f48a1b35fdf7
 
 -- sub_list --
 
-https://38.76.179.154:59877/j6a8rhxgr82k/51rujm0yn6g3nimo
 https://47.238.236.131/iv/verify_mode.htm?token=8e8640227102d5c0c2c5ccdf3635992f&amp;sid=nano
 https://47.76.155.27/iv/verify_mode.htm?token=b5abeb9e061cb862a0fbe604102f0bd5&amp;sid=nano
 https://GYKXQd.nicecloud.win:8443/api/v1/client/ba9afb03f303b578e1f72ce54c432546
