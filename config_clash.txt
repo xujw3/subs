@@ -1,11 +1,6 @@
 https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
-https://chromego-sub.netlify.app/sub/merged_proxies_new.yaml
-https://gh-proxy.com/raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml
-https://cache.ravelloh.top?uuid=cc980bc7-352e-d2d3-8059-eb91414f4a6e
-https://gist.github.com/go4sharing/d21555d607e3f395b7568b5f39c4fdd8/raw/99f21be91cb04b55c2d4286478158cee985afbdc/gistfile1.txt
-https://raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml
-https://chaoxie.351264.xyz/c/SkylineConnectJP
-https://xjj.zzxi.de/79073de0eba1efcd8a39ef986ff5fcc3
-https://cf.usb.200456.xyz/sub?token=testv200ddbot
 https://nodebuf.com/files/public/cms4lsw7t318fvi5wn0mn2pov/download
+https://chaoxie.351264.xyz/c/SkylineConnectJP
+https://cf.usb.200456.xyz/sub?token=testv200ddbot
+https://xjj.zzxi.de/79073de0eba1efcd8a39ef986ff5fcc3
 https://ta.mao2cloud.com/m2?token=443269217fdf6212119b1379429f1ff6
