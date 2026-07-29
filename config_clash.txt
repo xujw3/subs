@@ -1,6 +1,7 @@
+https://raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml
 https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
-https://nodebuf.com/files/public/cms4lsw7t318fvi5wn0mn2pov/download
 https://chaoxie.351264.xyz/c/SkylineConnectJP
-https://cf.usb.200456.xyz/sub?token=testv200ddbot
+https://gh-proxy.com/raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml
+https://nodebuf.com/files/public/cms5bizkk3b87vi5w4ep0q8zc/download
 https://xjj.zzxi.de/79073de0eba1efcd8a39ef986ff5fcc3
-https://ta.mao2cloud.com/m2?token=443269217fdf6212119b1379429f1ff6
+https://chromego-sub.netlify.app/sub/merged_proxies_new.yaml
