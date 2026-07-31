@@ -3,23 +3,23 @@
 可用流量: 100.0 GB https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#ShadowProxy66
 可用流量: 1000.0 GB https://anniu.eepzau.org/yuexia/duzhuo?token=3babbc58f4c71d34d9402a2ee5657991
 可用流量: 1111.0 GB https://knjc.cfd/api/v1/client/subscribe?token=136a9b549bc24d8f2a68fb9bd3b893e4
-可用流量: 768.46 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
-可用流量: 1312.66 GB https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
+可用流量: 288.47 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
 可用流量: 1931.49 GB https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
 可用流量: 1985.15 GB https://GYKXQd.nicecloud.win:8443/api/v1/client/ba9afb03f303b578e1f72ce54c432546
 可用流量: 2048.0 GB https://cf.iranhope.org/sub/javidnamaniran_telegram_0715/db9e05c451677536c6ffb8a65c4f4d6f
-可用流量: 960.54 GB https://xy.udptoos.com/xy114
+可用流量: 960.1 GB https://xy.udptoos.com/xy114
+可用流量: 303.27 GB https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
 可用流量: 3991.81 GB https://dash.djjc.cfd/api/v1/client/subscribe?token=c1c0bd4752d4ea34e82064a8469ce72f
 可用流量: 449.05 GB https://liangxin.xyz/api/v1/liangxin?OwO=99707f054d8fb6a3d7aba96d5a03f7ca
 可用流量: 464.58 GB https://47.76.155.27/iv/verify_mode.htm?token=b5abeb9e061cb862a0fbe604102f0bd5&amp;sid=nano
-可用流量: 59.57 GB https://www.edeyuan.com/s/bd90a406dca82c177e527d4c4cf7b2be
-可用流量: 63.32 GB https://sub716.vpn2.cc/xfj/40e3160f722d34024616748d7d0619cb
-可用流量: 7641196.55 GB https://mar.bbc.xx.kg/?b64
+可用流量: 59.06 GB https://www.edeyuan.com/s/bd90a406dca82c177e527d4c4cf7b2be
+可用流量: 61.93 GB https://sub716.vpn2.cc/xfj/40e3160f722d34024616748d7d0619cb
+可用流量: 7989340.48 GB https://mar.bbc.xx.kg/?b64
 可用流量: 89.96 GB https://47.238.236.131/iv/verify_mode.htm?token=8e8640227102d5c0c2c5ccdf3635992f&amp;sid=nano
 可用流量: 961089.12 GB https://www.xrayvip.com/free.txt
-可用流量: 9999176.82 GB https://api.laodayun.com/s/8a7871c791b3e74c2701e0b9639a5249
-可用流量: 9999426.68 GB https://s4.laoda666.com/s/33fa99fe725f652e94474d97e7fcde9f##https://dy11.baipiaoyes.com/api/v1/client/subscribe?token=f56f38c96eab9329ac92f48a1b35fdf7
-可用流量: 99999945.21 GB http://8.148.151.188:33666/s/8389aebe97e77c2c7a34dd1c50836357
+可用流量: 9999176.79 GB https://api.laodayun.com/s/8a7871c791b3e74c2701e0b9639a5249
+可用流量: 9999426.4 GB https://s4.laoda666.com/s/33fa99fe725f652e94474d97e7fcde9f##https://dy11.baipiaoyes.com/api/v1/client/subscribe?token=f56f38c96eab9329ac92f48a1b35fdf7
+可用流量: 99999944.28 GB http://8.148.151.188:33666/s/8389aebe97e77c2c7a34dd1c50836357
 
 -- sub_list --
 
