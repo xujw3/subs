@@ -1,4 +1,3 @@
-https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
 https://chaoxie.351264.xyz/c/SkylineConnectJP
+https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
 https://nodebuf.com/files/public/cms8w55qf04ovwt5w61h4uo55/download
-https://chromego-sub.netlify.app/sub/merged_proxies_new.yaml
