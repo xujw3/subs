@@ -1,29 +1,27 @@
 -- play_list --
 
 可用流量: 1111.0 GB https://knjc.cfd/api/v1/client/subscribe?token=136a9b549bc24d8f2a68fb9bd3b893e4
-可用流量: 1326.81 GB https://cf.iranhope.org/sub/javidnamaniran_telegram_0715/db9e05c451677536c6ffb8a65c4f4d6f
-可用流量: 134.25 GB https://0rkwimwng7mozqjd.yuji.homes
-可用流量: 15516.72 GB https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
-可用流量: 587.55 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
+可用流量: 12036.64 GB https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
+可用流量: 17.12 GB https://www.edeyuan.com/s/bd90a406dca82c177e527d4c4cf7b2be
 可用流量: 1974.06 GB https://login.yfjc.xyz/api/v1/client/subscribe?token=7d3ff3d4d1406caba9bba31b4f97c64a
+可用流量: 2012.26 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
 可用流量: 1985.15 GB https://GYKXQd.nicecloud.win:8443/api/v1/client/ba9afb03f303b578e1f72ce54c432546
-可用流量: 20.94 GB https://www.edeyuan.com/s/bd90a406dca82c177e527d4c4cf7b2be
 可用流量: 2048.0 GB https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
-可用流量: 955.18 GB https://xy.udptoos.com/xy114
+可用流量: 954.71 GB https://xy.udptoos.com/xy114
 可用流量: 3991.81 GB https://dash.djjc.cfd/api/v1/client/subscribe?token=c1c0bd4752d4ea34e82064a8469ce72f
 可用流量: 449.05 GB https://liangxin.xyz/api/v1/liangxin?OwO=99707f054d8fb6a3d7aba96d5a03f7ca
 可用流量: 464.58 GB https://47.76.155.27/iv/verify_mode.htm?token=b5abeb9e061cb862a0fbe604102f0bd5&amp;sid=nano
-可用流量: 939.96 GB https://anniu.eepzau.org/yuexia/duzhuo?token=2c0e93950a2b16d32b4d7b97b8c8433d
+可用流量: 913.55 GB https://anniu.eepzau.org/yuexia/duzhuo?token=2c0e93950a2b16d32b4d7b97b8c8433d
+可用流量: 762.37 GB https://cf.iranhope.org/sub/javidnamaniran_telegram_0715/db9e05c451677536c6ffb8a65c4f4d6f
+可用流量: 76.35 GB http://38.175.196.72:5888/s/032ceeefcf6f3ca3907bf8e42d3b6920
 可用流量: 89.96 GB https://47.238.236.131/iv/verify_mode.htm?token=8e8640227102d5c0c2c5ccdf3635992f&amp;sid=nano
-可用流量: 90.48 GB http://38.175.196.72:5888/s/032ceeefcf6f3ca3907bf8e42d3b6920
 可用流量: 961089.12 GB https://www.xrayvip.com/free.txt
-可用流量: 9999162.42 GB https://api.laodayun.com/s/8a7871c791b3e74c2701e0b9639a5249
-可用流量: 9999994.51 GB https://s4.laoda666.com/s/e0af55aafe5d15f2770def5fe3a428ab
+可用流量: 9999162.17 GB https://api.laodayun.com/s/8a7871c791b3e74c2701e0b9639a5249
+可用流量: 9999994.5 GB https://s4.laoda666.com/s/e0af55aafe5d15f2770def5fe3a428ab
 
 -- sub_list --
 
 http://38.175.196.72:5888/s/032ceeefcf6f3ca3907bf8e42d3b6920
-https://0rkwimwng7mozqjd.yuji.homes
 https://47.238.236.131/iv/verify_mode.htm?token=8e8640227102d5c0c2c5ccdf3635992f&amp;sid=nano
 https://47.76.155.27/iv/verify_mode.htm?token=b5abeb9e061cb862a0fbe604102f0bd5&amp;sid=nano
 https://GYKXQd.nicecloud.win:8443/api/v1/client/ba9afb03f303b578e1f72ce54c432546
