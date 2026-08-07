@@ -1,10 +1,6 @@
 https://raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml
-https://chromego-sub.netlify.app/sub/merged_proxies_new.yaml
-https://chaoxie.351264.xyz/c/SkylineConnectJP
 https://gh-proxy.com/raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml
-https://xjj.zzxi.de/79073de0eba1efcd8a39ef986ff5fcc3
+https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
+https://nodebuf.com/files/public/cmsi6hu6p1f9fsz5wiv8z4eal/download
+https://chaoxie.351264.xyz/c/SkylineConnectJP
 https://gist.github.com/go4sharing/d21555d607e3f395b7568b5f39c4fdd8/raw/99f21be91cb04b55c2d4286478158cee985afbdc/gistfile1.txt
-https://nodebuf.com/files/public/cmshgrtza18n5sz5wh6lhnp8c/download
-https://cf.iranhope.org/sub/javidnamaniran_telegram_0715/db9e05c451677536c6ffb8a65c4f4d6f
-https://cf.usb.200456.xyz/sub?token=testv200ddbot
-https://cache.ravelloh.top?uuid=cc980bc7-352e-d2d3-8059-eb91414f4a6e
