@@ -1,12 +1,12 @@
 -- play_list --
 
+可用流量: 9.26 GB https://qijiavpn.salnc.kuaivpn.app/api/v1/client/subscribe?token=96ad260cfa219987e8e6c3e79228266c
 可用流量: 1111.0 GB https://knjc.cfd/api/v1/client/subscribe?token=136a9b549bc24d8f2a68fb9bd3b893e4
 可用流量: 129.85 GB https://ss88.beifengyuns.top/s/ddc32faaf6aa5b5125c752750e03ea2d
-可用流量: 1805.55 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
+可用流量: 1696.37 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
 可用流量: 1985.15 GB https://GYKXQd.nicecloud.win:8443/api/v1/client/ba9afb03f303b578e1f72ce54c432546
 可用流量: 2048.0 GB https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
 可用流量: 946.05 GB https://xy.udptoos.com/xy114
-可用流量: 3.59 GB https://qijiavpn.salnc.kuaivpn.app/api/v1/client/subscribe?token=fab2bf8478ef22fa6469b165300bcd29#
 可用流量: 31.95 GB https://47.76.155.27/iv/verify_mode.htm?token=c8a548ab7f4eed015814989f1d2e4663
 可用流量: 3991.81 GB https://dash.djjc.cfd/api/v1/client/subscribe?token=c1c0bd4752d4ea34e82064a8469ce72f
 可用流量: 449.05 GB https://liangxin.xyz/api/v1/liangxin?OwO=99707f054d8fb6a3d7aba96d5a03f7ca
@@ -14,8 +14,8 @@
 可用流量: 512.0 GB https://cf.iranhope.org/sub/javidnamaniran_telegram_0715/db9e05c451677536c6ffb8a65c4f4d6f
 可用流量: 89.96 GB https://47.238.236.131/iv/verify_mode.htm?token=8e8640227102d5c0c2c5ccdf3635992f&amp;sid=nano
 可用流量: 961089.12 GB https://www.xrayvip.com/free.txt
-可用流量: 9999138.37 GB https://api.laodayun.com/s/ccfe77743c63f6a52d321825656ec1c1
-可用流量: 9999409.48 GB https://s4.laoda666.com/s/33fa99fe725f652e94474d97e7fcde9f
+可用流量: 9999138.3 GB https://api.laodayun.com/s/ccfe77743c63f6a52d321825656ec1c1
+可用流量: 9999409.45 GB https://s4.laoda666.com/s/33fa99fe725f652e94474d97e7fcde9f
 
 -- sub_list --
 
@@ -30,7 +30,7 @@ https://dash.djjc.cfd/api/v1/client/subscribe?token=c1c0bd4752d4ea34e82064a8469c
 https://knjc.cfd/api/v1/client/subscribe?token=136a9b549bc24d8f2a68fb9bd3b893e4
 https://liangxin.xyz/api/v1/liangxin?OwO=99707f054d8fb6a3d7aba96d5a03f7ca
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
-https://qijiavpn.salnc.kuaivpn.app/api/v1/client/subscribe?token=fab2bf8478ef22fa6469b165300bcd29#
+https://qijiavpn.salnc.kuaivpn.app/api/v1/client/subscribe?token=96ad260cfa219987e8e6c3e79228266c
 https://s4.laoda666.com/s/33fa99fe725f652e94474d97e7fcde9f
 https://ss88.beifengyuns.top/s/ddc32faaf6aa5b5125c752750e03ea2d
 https://www.xrayvip.com/free.txt
