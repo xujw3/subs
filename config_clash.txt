@@ -1,6 +1,6 @@
+https://gh-proxy.com/raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml
 https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
 https://svip.ttyun.eu.org/x/wnnAxleYMYw
 https://raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml
-https://gh-proxy.com/raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml
 https://chaoxie.351264.xyz/c/SkylineConnectJP
 https://nodebuf.com/files/public/cmsswafug3tair55wy1cms059/download
