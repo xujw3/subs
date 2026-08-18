@@ -1,4 +1,5 @@
 https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
-https://raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml
+https://src.yohuo.eu.org/1786880286652-54a7ff015681174b.yaml
 https://chaoxie.351264.xyz/c/SkylineConnectJP
 https://nodebuf.com/files/public/cmsym2mr80nwpdp5wsvek1eyc/download
+https://ctp.ct8.pl/9002.yaml
