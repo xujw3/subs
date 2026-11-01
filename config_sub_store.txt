@@ -1,51 +1,43 @@
 -- play_list --
 
-可用流量: 0.84 GB https://freesocks.org/api/v1/sub/e5c581cb3981520cbe2008388cfcd947
 可用流量: 100.0 GB https://sub.shadowproxy66.workers.dev/sub/e7c122fa-35f6-4962-9ff4-70ab55e6fbac#ShadowProxy66
 可用流量: 10000000.0 GB http://hkgoin.jyounet.com
 可用流量: 101373.0 GB https://sub.femboy.us.ci/?url=freenodes#tg#tg://webproxy?server=tg.noos.eu.cc&amp;secret=80664137832346567966628550109410
 可用流量: 1022976.0 GB https://honghong.yyylll.kdns.fr/sub/user/eyJ1IjoidGVzdGFhYTEyMyIsImUiOi0zMDI0MzUxMTI0MzA4ODkwLCJzIjoiMmI0YjRmZDVhZGRjYjg4OSJ9?vip=1&amp;protocol=default
 可用流量: 1024.0 GB http://sub.158361.xyz:8080
 可用流量: 1111.0 GB https://knjc.cfd/api/v1/client/subscribe?token=136a9b549bc24d8f2a68fb9bd3b893e4
-可用流量: 1375.08 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
+可用流量: 995.42 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
 可用流量: 179.31 GB https://mzyglc.xyz/api/v1/client/subscribe?token=8168d96fdc6b11666c2876070bb7a12b
 可用流量: 4.27 GB https://sub.harnesscom.com/sub/djMsMTQxOSwxNzkyNDM1NzA0.Qag6Z4rHzlMDHmbPm6HMxt74qHKkYKyrMJgDpzowuWs
 可用流量: 200.0 GB https://jsjc.cfd/api/v1/client/subscribe?token=06a911477d3b0db499f510c7e72d4840
 可用流量: 2048.0 GB https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
-可用流量: 405.7 GB https://sso.yuetoto.com/api/v2/avatar/e669cf66c6d9f82150fb820d263e592d
 可用流量: 50.0 GB https://app.nextvpn.xyz/api/sub/b265ff5d5172a25b2f6eadbfac154e4991006054
 可用流量: 511.42 GB https://xn--9kqs1lo79d.cc/api/v1/chuixue?token=ca2a157a392883ad16f6fa763daa9c53
-可用流量: 53.63 GB https://tapfog.kytsx.com/api/v1/client/subscribe?token=b9c09dcfe61a495bde7811c4bba77a20
-可用流量: 575.56 GB https://154.219.110.251/s/c02621a18e169d1b9ba3b7cc6c27a9ff
-可用流量: 6.22 GB https://www.edeyuan.com/s/d87abd1c08c321062891d9487aeba5fc
+可用流量: 52.2 GB https://tapfog.kytsx.com/api/v1/client/subscribe?token=b9c09dcfe61a495bde7811c4bba77a20
 可用流量: 707.0 GB https://yi2gmw3ns8.qinyues4.cc/a11e22865782df21f052be69c2148265#AVToday.io
-可用流量: 8.08 GB https://0gsyg.no-mad-sub.one/link/ztSHGenGbJmnSisp?clash=3&amp;extend=1
+可用流量: 729.6 GB https://154.219.110.251/s/c02621a18e169d1b9ba3b7cc6c27a9ff
 可用流量: 931135485.46 GB https://xship.2fa.cat/v1/subscribe?starlink=kcrJFGG_1j8a0tWbVtUL2rIc#AV%E7%84%A1%E7%A2%BCAVToday.io
 可用流量: 971.14 GB https://liangxin.xyz/api/v1/liangxin?OwO=aae9213c838c6fbebf28153b53f73e6a
-可用流量: 98203.65 GB https://www.youzilite.help/kipfelmao2?token=2b63b62fc7fd2838c7addf52fe52dc48
+可用流量: 98145.47 GB https://www.youzilite.help/kipfelmao2?token=2b63b62fc7fd2838c7addf52fe52dc48
 可用流量: 9999999.0 GB https://www.xn--kivt58h.lol/s/a55ca516c9ef4234ab53e384e69a2456
 
 -- sub_list --
 
 http://hkgoin.jyounet.com
 http://sub.158361.xyz:8080
-https://0gsyg.no-mad-sub.one/link/ztSHGenGbJmnSisp?clash=3&amp;extend=1
 https://154.219.110.251/s/c02621a18e169d1b9ba3b7cc6c27a9ff
 https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
 https://app.nextvpn.xyz/api/sub/b265ff5d5172a25b2f6eadbfac154e4991006054
-https://freesocks.org/api/v1/sub/e5c581cb3981520cbe2008388cfcd947
 https://honghong.yyylll.kdns.fr/sub/user/eyJ1IjoidGVzdGFhYTEyMyIsImUiOi0zMDI0MzUxMTI0MzA4ODkwLCJzIjoiMmI0YjRmZDVhZGRjYjg4OSJ9?vip=1&amp;protocol=default
 https://jsjc.cfd/api/v1/client/subscribe?token=06a911477d3b0db499f510c7e72d4840
 https://knjc.cfd/api/v1/client/subscribe?token=136a9b549bc24d8f2a68fb9bd3b893e4
 https://liangxin.xyz/api/v1/liangxin?OwO=aae9213c838c6fbebf28153b53f73e6a
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
 https://mzyglc.xyz/api/v1/client/subscribe?token=8168d96fdc6b11666c2876070bb7a12b
-https://sso.yuetoto.com/api/v2/avatar/e669cf66c6d9f82150fb820d263e592d
 https://sub.femboy.us.ci/?url=freenodes#tg#tg://webproxy?server=tg.noos.eu.cc&amp;secret=80664137832346567966628550109410
 https://sub.harnesscom.com/sub/djMsMTQyMCwxNzkyNDM1NzA1.OhmkbgpR_hiv_6lto6ImYwlPOXndIi-YhgVSHSX7u78
 https://sub.shadowproxy66.workers.dev/sub/e7c122fa-35f6-4962-9ff4-70ab55e6fbac#ShadowProxy66
 https://tapfog.kytsx.com/api/v1/client/subscribe?token=b9c09dcfe61a495bde7811c4bba77a20
-https://www.edeyuan.com/s/d87abd1c08c321062891d9487aeba5fc
 https://www.xn--kivt58h.lol/s/a55ca516c9ef4234ab53e384e69a2456
 https://www.youzilite.help/kipfelmao2?token=2b63b62fc7fd2838c7addf52fe52dc48
 https://xn--9kqs1lo79d.cc/api/v1/chuixue?token=ca2a157a392883ad16f6fa763daa9c53
