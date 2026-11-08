@@ -1,7 +1,6 @@
 clash订阅:
 - http://104.225.156.134:28080/clash-sub.yaml
 - http://179.255.117.226:8080/4bbfccb691cbee29.yaml
-- http://23.147.56.181:8089/clash-config-c6b6.yaml
 - http://38.145.220.193:2053/0918c059d55f0a68f0f19d72.yaml
 - http://jp.15181518.xyz/
 - https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3vpn.yuzhe.cc.cd
@@ -162,6 +161,7 @@ tgchannel:
 v2订阅:
 - http://1.1.1.1/
 - http://172.96.142.65:9001/html/system/bee/html?token=fe9be150b776298c95f167edc74791a9
+- http://38.76.210.178:8080/befriends?token=10ca7e16ea676268848fc17c8e2f747f
 - http://6g123.com/
 - http://94.140.15.15/
 - http://95.169.9.188:2080/zk0erRARMTkcCsT07Qe6u09Y
@@ -383,6 +383,7 @@ v2订阅:
 - https://developers.openai.com/plugins/build/mcp-events
 - https://devolutions.net/unigetui/
 - https://discord.gg/5dxcWsXaeh
+- https://dnsjumper.net/
 - https://docs.amnezia.org/documentation/amnezia-wg/
 - https://docs.astral.sh/uv/
 - https://docs.aws.amazon.com/bedrock/latest/userguide/model-card-moonshot-ai-kimi-k3.html
@@ -476,6 +477,7 @@ v2订阅:
 - https://www.idc.com/resource-center/blog/%E4%B8%AD%E5%9B%BDmaas%E5%B8%82%E5%9C%BA%E5%AE%9E%E7%8E%B0%E8%BF%919%E5%80%8D%E5%A2%9E%E9%95%BF-%E9%AB%98%E5%A2%9E%E9%80%9F%E4%B8%8B%E5%8E%82%E5%95%86%E5%8A%A0%E9%80%9F%E6%B6%8C/
 - https://inbound.new/
 - https://inside.ad/+ymyp3f
+- https://www.instagram.com/reel/Db2ajPxNfT3/?igsh=MThnM3p3MHV1aWRkYQ==
 - https://intelligence-curse.ai/defining/
 - https://internxt.com/temporary-email
 - https://invizible.net/
@@ -811,7 +813,6 @@ v2订阅:
 - https://www.humaaans.com/
 - https://www.hume.ai/rw-voice-eq
 - https://www.iloveimg.com/
-- https://www.instagram.com/reel/Db2ajPxNfT3/?igsh=MThnM3p3MHV1aWRkYQ==
 - https://www.ip2location.io/
 - https://www.iplocate.io/
 - https://www.ipqualityscore.com/
@@ -921,23 +922,22 @@ v2订阅:
 - '可用流量: 101373.0 GB https://sub.femboy.us.ci/?url=freenodes#tg#tg://webproxy?server=tg.noos.eu.cc&amp;secret=80664137832346567966628550109410'
 - '可用流量: 1024.0 GB http://sub.158361.xyz:8080'
 - '可用流量: 1111.0 GB https://knjc.cfd/api/v1/client/subscribe?token=136a9b549bc24d8f2a68fb9bd3b893e4'
-- '可用流量: 147.24 GB http://38.76.210.178:8080/befriends?token=10ca7e16ea676268848fc17c8e2f747f'
-- '可用流量: 2040.03 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168'
+- '可用流量: 688.79 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168'
 - '可用流量: 179.31 GB https://mzyglc.xyz/api/v1/client/subscribe?token=8168d96fdc6b11666c2876070bb7a12b'
-- '可用流量: 1847.56 GB https://ymjc.cfd/api/v1/client/subscribe?token=8cb05f27c6902aa01481b0af84d8f417'
-- '可用流量: 190.07 GB https://lovehk.xyz/s/7885931dc38656cfef5bb9c66f30b819'
+- '可用流量: 1842.27 GB https://ymjc.cfd/api/v1/client/subscribe?token=8cb05f27c6902aa01481b0af84d8f417'
+- '可用流量: 189.72 GB https://lovehk.xyz/s/7885931dc38656cfef5bb9c66f30b819'
 - '可用流量: 4.27 GB https://sub.harnesscom.com/sub/djMsMTQxOSwxNzkyNDM1NzA0.Qag6Z4rHzlMDHmbPm6HMxt74qHKkYKyrMJgDpzowuWs'
 - '可用流量: 200.0 GB https://jsjc.cfd/api/v1/client/subscribe?token=06a911477d3b0db499f510c7e72d4840'
 - '可用流量: 2048.0 GB https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e'
-- '可用流量: 361.11 GB https://shsub001.dingzhi01.cfd/api/v1/client/subscribe?token=cd5e6d1d74b917d4276e928842b87d16'
+- '可用流量: 33.16 GB https://shsub001.dingzhi01.cfd/api/v1/client/subscribe?token=cd5e6d1d74b917d4276e928842b87d16'
 - '可用流量: 50.0 GB https://app.nextvpn.xyz/api/sub/b265ff5d5172a25b2f6eadbfac154e4991006054'
 - '可用流量: 511.42 GB https://xn--9kqs1lo79d.cc/api/v1/chuixue?token=ca2a157a392883ad16f6fa763daa9c53'
-- '可用流量: 91.63 GB https://sub1.5yunapi.sbs/wuyun6b7a3afc07e2858afa7267103688d9bf'
+- '可用流量: 707.0 GB https://yi2gmw3ns8.qinyues4.cc/a11e22865782df21f052be69c2148265'
+- '可用流量: 90.81 GB https://sub1.5yunapi.sbs/wuyun6b7a3afc07e2858afa7267103688d9bf'
 - '可用流量: 931135485.46 GB https://xship.2fa.cat/v1/subscribe?starlink=kcrJFGG_1j8a0tWbVtUL2rIc#AV%E7%84%A1%E7%A2%BCAVToday.io'
 - '可用流量: 971.14 GB https://liangxin.xyz/api/v1/liangxin?OwO=aae9213c838c6fbebf28153b53f73e6a'
 - '可用流量: 9999999.0 GB https://www.xn--kivt58h.lol/s/a55ca516c9ef4234ab53e384e69a2456'
 机场订阅:
-- http://38.76.210.178:8080/befriends?token=10ca7e16ea676268848fc17c8e2f747f
 - http://hkgoin.jyounet.com
 - http://sub.158361.xyz:8080
 - https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
@@ -957,4 +957,5 @@ v2订阅:
 - https://www.xn--kivt58h.lol/s/a55ca516c9ef4234ab53e384e69a2456
 - https://xn--9kqs1lo79d.cc/api/v1/chuixue?token=ca2a157a392883ad16f6fa763daa9c53
 - https://xship.2fa.cat/v1/subscribe?starlink=kcrJFGG_1j8a0tWbVtUL2rIc#AV%E7%84%A1%E7%A2%BCAVToday.io
+- https://yi2gmw3ns8.qinyues4.cc/a11e22865782df21f052be69c2148265
 - https://ymjc.cfd/api/v1/client/subscribe?token=8cb05f27c6902aa01481b0af84d8f417
