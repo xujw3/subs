@@ -162,7 +162,6 @@ tgchannel:
 v2订阅:
 - http://1.1.1.1/
 - http://172.96.142.65:9001/html/system/bee/html?token=fe9be150b776298c95f167edc74791a9
-- http://38.76.210.178:8080/befriends?token=c0ceaa4355bf4b5d051024274060b659
 - http://6g123.com/
 - http://94.140.15.15/
 - http://AGENTS.md/
@@ -323,7 +322,6 @@ v2订阅:
 - https://calif.io/research/weworm
 - https://camoufox.com/
 - https://carbon.now.sh/
-- https://ch.cukug.website/api/v1/client/subscribe?token=d96b48a34918ab096906275485b162bb
 - https://chat.qwen.ai/?inputFeature=t2i
 - https://chat.z.ai/
 - https://chatwith.tools/youtube-summarizer
@@ -839,7 +837,6 @@ v2订阅:
 - https://www.lightorigins.com/blog/lightnav-0
 - https://www.limeesim.com/r/55CE552EB7
 - https://www.linkedin.com/posts/clementdelangue_super-happy-to-share-our-intention-to-join-activity-7501248639705464832--RTv
-- https://www.louwangzhiyu.xyz/api/v1/client/subscribe?token=8d4b6141011de1d68e5aad95d6a61329
 - https://www.macrumors.com/2026/09/04/anthropics-claude-is-coming-to-carplay/
 - https://www.mailinator.com/
 - https://www.maxmind.com/
@@ -930,29 +927,35 @@ v2订阅:
 - '可用流量: 101373.0 GB https://sub.femboy.us.ci/?url=freenodes#tg#tg://webproxy?server=tg.noos.eu.cc&amp;secret=80664137832346567966628550109410'
 - '可用流量: 1024.0 GB http://sub.158361.xyz:8080'
 - '可用流量: 1111.0 GB https://knjc.cfd/api/v1/client/subscribe?token=136a9b549bc24d8f2a68fb9bd3b893e4'
-- '可用流量: 1937.99 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168'
-- '可用流量: 179.05 GB https://lovehk.xyz/s/7885931dc38656cfef5bb9c66f30b819'
+- '可用流量: 178.49 GB https://lovehk.xyz/s/7885931dc38656cfef5bb9c66f30b819'
 - '可用流量: 179.31 GB https://mzyglc.xyz/api/v1/client/subscribe?token=8168d96fdc6b11666c2876070bb7a12b'
 - '可用流量: 4.27 GB https://sub.harnesscom.com/sub/djMsMTQxOSwxNzkyNDM1NzA0.Qag6Z4rHzlMDHmbPm6HMxt74qHKkYKyrMJgDpzowuWs'
 - '可用流量: 200.0 GB https://jsjc.cfd/api/v1/client/subscribe?token=06a911477d3b0db499f510c7e72d4840'
 - '可用流量: 2048.0 GB https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e'
-- '可用流量: 453.07 GB https://sso.yuetoto.com/api/v2/avatar/e205e8c37c0d3fd89267ba10f87f365c'
+- '可用流量: 297.31 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168'
+- '可用流量: 227328.0 GB https://jikun.zmxoo.xyz/subapi?token=free_V2svfndDd0xMWGb&amp;placeholder=1&amp;placeholder=2&amp;placeholder=3'
+- '可用流量: 298.64 GB http://38.76.210.178:8080/befriends?token=c0ceaa4355bf4b5d051024274060b659'
+- '可用流量: 365.85 GB https://sso.yuetoto.com/api/v2/avatar/e205e8c37c0d3fd89267ba10f87f365c'
 - '可用流量: 50.0 GB https://app.nextvpn.xyz/api/sub/b265ff5d5172a25b2f6eadbfac154e4991006054'
 - '可用流量: 511.42 GB https://xn--9kqs1lo79d.cc/api/v1/chuixue?token=ca2a157a392883ad16f6fa763daa9c53'
-- '可用流量: 996.48 GB https://flszjy.com/s/91ab2271c9363c6efaeba43e6577760a'
-- '可用流量: 86.67 GB https://sub1.5yunapi.sbs/wuyun6b7a3afc07e2858afa7267103688d9bf'
-- '可用流量: 869.58 GB https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=avtoday.io'
+- '可用流量: 996.35 GB https://flszjy.com/s/91ab2271c9363c6efaeba43e6577760a'
+- '可用流量: 76.3 GB https://fefeeu.dhkvfug.cn/wdfs/heuy/mdet/?token=929545a2805506ffef7e77362de78ad3'
+- '可用流量: 855.43 GB https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=avtoday.io'
+- '可用流量: 86.65 GB https://sub1.5yunapi.sbs/wuyun6b7a3afc07e2858afa7267103688d9bf'
+- '可用流量: 918.33 GB https://sjc.hief.store/api/v1/client/subscribe?token=b30dad4bd5475bdb2482317501e24d9e'
 - '可用流量: 9216.0 GB https://xiaokun.zmxoo.xyz/subapi?token=free_KjVlgze9jAEg5Wq&amp;placeholder=1&amp;placeholder=2&amp;placeholder=3'
-- '可用流量: 984.61 GB https://sf55d7a13a49f.flszjy.com/891aa9/s/ae0e8b31eaa10cf173c166177a4f84f7'
-- '可用流量: 943.59 GB https://sjc.hief.store/api/v1/client/subscribe?token=b30dad4bd5475bdb2482317501e24d9e'
+- '可用流量: 984.38 GB https://sf55d7a13a49f.flszjy.com/891aa9/s/ae0e8b31eaa10cf173c166177a4f84f7'
 - '可用流量: 931135485.46 GB https://xship.2fa.cat/v1/subscribe?starlink=kcrJFGG_1j8a0tWbVtUL2rIc#AV%E7%84%A1%E7%A2%BCAVToday.io'
 机场订阅:
+- http://38.76.210.178:8080/befriends?token=c0ceaa4355bf4b5d051024274060b659
 - http://hkgoin.jyounet.com
 - http://sub.158361.xyz:8080
 - https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=avtoday.io
 - https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
 - https://app.nextvpn.xyz/api/sub/b265ff5d5172a25b2f6eadbfac154e4991006054
+- https://fefeeu.dhkvfug.cn/wdfs/heuy/mdet/?token=929545a2805506ffef7e77362de78ad3
 - https://flszjy.com/s/91ab2271c9363c6efaeba43e6577760a
+- https://jikun.zmxoo.xyz/subapi?token=free_V2svfndDd0xMWGb&amp;placeholder=1&amp;placeholder=2&amp;placeholder=3
 - https://jsjc.cfd/api/v1/client/subscribe?token=06a911477d3b0db499f510c7e72d4840
 - https://knjc.cfd/api/v1/client/subscribe?token=136a9b549bc24d8f2a68fb9bd3b893e4
 - https://lovehk.xyz/s/7885931dc38656cfef5bb9c66f30b819
